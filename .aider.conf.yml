@@ -1,4 +1,5 @@
 # .aider.conf.yml
+model: mistral/mistral-large-latest
 
 # Load specific files (Aider will automatically handle .md and .txt)
 file:
