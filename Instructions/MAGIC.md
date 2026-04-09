@@ -1,75 +1,116 @@
-# MAGIC SYSTEMS IN THE REALM OF ETHERIA
+# THE COST OF POWER: A TREATISE ON MAGIC'S TRUE PRICE
 
-The magic of Etheria is a tapestry of ancient forces, divine wills, and forbidden knowledge. It shapes the world and the people who dwell within it, creating a delicate balance of power and consequence.
+Magic is not a gift. It is a **transaction**. Every spell exacts payment - sometimes immediately, sometimes slowly, but always inevitably. The world does not give power freely. It **takes**.
 
-## ARCANE MAGIC: THE WHISPERS OF THE FORGOTTEN
+And sometimes—just sometimes—it **gives back**. But never without interest.
 
-Arcane magic is the raw, untamed power of the world itself. It is the language of the stars, the breath of the earth, and the secrets of the first sorcerers. Those who wield it must be cautious, for the power that flows through them is as unpredictable as the tides of the sea.
+---
 
-### TYPES OF ARCANE MAGIC
+## **I. ARCANE MAGIC: THE WORLD'S HUNGER**
 
-- **Elemental Magic:** Harnessing the raw forces of nature. Fire, water, earth, and air are the foundations of this magic, and mastering it requires understanding the balance between them.
-- **Necromancy:** The art of raising the dead, necromancy is a dark and complex art. It requires a deep understanding of the spirit world and a willingness to defy the natural order.
-- **Illusion Magic:** The power to bend the mind and the senses, illusion magic is a tool of deception and illusion. Those who master it can make the world around them seem as they wish, but the cost of such power is often high.
-- **Transmutation Magic:** The ability to change the form of matter, transmutation magic is a powerful tool for both destruction and creation. Those who wield it must be careful, for the power to transform the world can also be used to destroy it.
+Arcane magic is the raw force of creation, and creation is **never free**. Those who wield it do not command power - they **borrow** it, and the world always collects its due.
 
-### LEARNING ARCANE MAGIC
+But the world is not without mercy. **Rest can reverse the damage**. A fire mage's blistered hands may heal. A water mage's fluid-filled lungs may clear. An earth mage's petrified joints may soften. An air mage's fading voice may return.
 
-Arcane magic is not something that can be learned overnight. It requires years of study, practice, and dedication. The first steps are often humble, such as learning to control the smallest sparks of magic or to understand the language of the elements. As the student progresses, they will learn more complex spells and techniques, and eventually, they may reach the heights of power.
+**But the debt remains**. And the interest grows.
 
-### THE COST OF ARCANE MAGIC
+### **Elemental Magic: The Fourfold Curse**
+The elements do not serve. They **consume**.
 
-Every spell cast with arcane magic comes with a cost. The cost may be physical, such as the loss of health or the weakening of the body. It may be mental, such as the loss of sanity or the erosion of the mind. Or it may be spiritual, such as the corruption of the soul or the binding of the caster to a dark force.
+- **Fire Magic**: The first spell leaves reddened palms. The tenth leaves blisters. The hundredth leaves hands fused to the staff, blackened flesh peeling away like charred parchment. A month of rest might heal the blisters. A year might restore the hands. But the **scars remain**, and the next casting will burn deeper. Fire mages do not die of old age. They **burn out** long before.
 
-## DIVINE MAGIC: THE WILL OF THE GODS
+- **Water Magic**: The lungs fill with brine after each casting. A cough here, a wheeze there. A week of prayer to the river gods might clear the fluid. A month might restore the breath. But the **salt lingers** in the veins, and the next spell will fill the lungs faster. The Order calls this "divine communion." The drowned call it **suffocation**.
 
-Divine magic is the power of the gods, poured into the world to shape its destiny. It is the force that drives the seasons, the force that guides the stars, and the force that sustains all living things. Those who wield it are not just sorcerers, but priests, prophets, and champions of the divine will.
+- **Earth Magic**: The bones harden. The joints stiffen. A season of meditation in the deep caves might soften the stone. A year might restore movement. But the **weight remains**, and the next casting will turn more bone to rock. The dwarves praise this as "becoming one with the stone." The petrified know it as **entombment**.
 
-### TYPES OF DIVINE MAGIC
+- **Air Magic**: The voice fades first. Then the breath. A month of silence in the high mountains might restore the voice. A year might return the breath. But the **emptiness remains**, and the next spell will steal more air. The last air mage of Saltmere stood silent as the noose tightened, her vocal cords long since turned to dust.
 
-- **Healing Magic:** The power to mend the body and the spirit, healing magic is a gift from the gods. It is a tool of mercy and compassion, and those who wield it are often seen as healers, priests, and saints.
-- **Protection Magic:** The ability to ward off evil and harm, protection magic is a shield against the darkness that lurks in the shadows. Those who master it are often seen as protectors, guardians, and warriors.
-- **Summoning Magic:** The power to call forth the forces of the gods, summoning magic is a tool of war and of peace. It can be used to call forth armies of angels, or to summon the wrath of the gods upon the enemies of the faithful.
-- **Forbidden Magic:** The dark side of divine power, forbidden magic is a path of destruction and of despair. Those who wield it are often seen as heretics, blasphemers, and fools, for the power they seek is not the gift of the gods, but the curse of the damned.
+**The Price**: Small at first. A blister. A cough. A stiff joint. The elements will **take**, but they will also **give back**—for a time. But the interest compounds. And the elements always **collect in the end**.
 
-### LEARNING DIVINE MAGIC
+---
 
-Divine magic is not something that can be learned in a day. It requires faith, devotion, and a willing heart. The first steps are often simple, such as learning to pray or to offer sacrifices to the gods. As the student progresses, they will learn more complex prayers and rituals, and eventually, they may reach the heights of power.
+## **II. DIVINE MAGIC: THE GODS' CHAINS**
 
-### THE COST OF DIVINE MAGIC
+Divine magic is not a blessing. It is a **leash**. The gods do not grant power - they **lend** it, and their interest rates are cruel.
 
-Every spell cast with divine magic comes with a cost. The cost may be physical, such as the loss of health or the weakening of the body. It may be mental, such as the loss of sanity or the erosion of the mind. Or it may be spiritual, such as the corruption of the soul or the binding of the caster to a dark force.
+But the gods are not without mercy. **Prayer can reverse the damage**. A priest's blackened veins may fade. A protector's petrified skin may soften. A summoner's burned vocal cords may heal.
 
-## THE FORBIDDEN ARTS: THE PATH OF THE DAMNED
+**But the gods remember**. And they always **demand more**.
 
-Forbidden magic is the dark side of power, the path of the damned. It is the magic of the necromancers, the magic of the witches, and the magic of the sorcerers who have crossed the line. Those who wield it are not just sorcerers, but heretics, blasphemers, and fools, for the power they seek is not the gift of the gods, but the curse of the damned.
+### **Healing Magic: The Priest's Burden**
+To heal another, the priest must **give of themselves**.
 
-### TYPES OF FORBIDDEN MAGIC
+- The first healing leaves thin black veins creeping up the wrists. A night of prayer might fade them. A week of fasting might erase them. But the **mark remains**, and the next healing will darken them faster.
+- The hundredth healing leaves the veins crawling past the elbows. A month of penance might lighten them. A year of devotion might shrink them. But the **taint remains**, and the next healing will spread them further.
+- The thousandth healing leaves the priest's arms **useless**, blackened tendrils spreading toward the heart. Even the gods cannot reverse this. The Order calls this "divine sacrifice." The dying call it **the price of mercy**.
 
-- **Blood Magic:** The power of life and death, blood magic is a dark art that requires the sacrifice of the living. Those who wield it must be careful, for the power they seek is a gift from the darkest forces of the universe.
-- **Soul Magic:** The ability to manipulate the souls of the dead, soul magic is a powerful tool for both destruction and creation. Those who wield it must be careful, for the power to transform the world can also be used to destroy it.
-- **Shadow Magic:** The power of the void, shadow magic is a dark art that requires the mastery of the darkness. Those who wield it must be careful, for the power they seek is a gift from the darkest forces of the universe.
+### **Protection Magic: The Shield's Weight**
+Protection does not guard. It **transfers**.
 
-### LEARNING FORBIDDEN MAGIC
+- The first protection leaves the caster's skin slightly stiffer. A day of prayer might soften it. A week of meditation might restore it. But the **weight remains**, and the next protection will harden it further.
+- The hundredth protection leaves the caster's skin **stone-like**. A month of vigils might loosen it. A year of pilgrimage might flex it. But the **burden remains**, and the next protection will petrify it more.
+- The thousandth protection leaves the caster **immobile**, a living statue bearing the wounds of those they protected. Not even the gods can reverse this. The Order calls this "divine armor." The petrified call it **a prison of flesh**.
 
-Forbidden magic is not something that can be learned in a day. It requires a willingness to defy the natural order, to embrace the darkness, and to seek the power of the damned. The first steps are often simple, such as learning to control the smallest sparks of magic or to understand the language of the elements. As the student progresses, they will learn more complex spells and techniques, and eventually, they may reach the heights of power.
+### **Summoning Magic: The Call's Toll**
+The gods do not answer lightly.
 
-### THE COST OF FORBIDDEN MAGIC
+- The first summoning leaves the caster's voice hoarse. A day of silence might restore it. A week of hymns might strengthen it. But the **strain remains**, and the next summoning will roughen it more.
+- The hundredth summoning leaves the caster's voice **cracked**. A month of chanting might smooth it. A year of devotion might clear it. But the **damage remains**, and the next summoning will burn it further.
+- The thousandth summoning leaves the caster **mute**, their vocal cords burned away by divine fire. The gods will not reverse this. And when the summoned turn on their master? The gods call that **justice**.
 
-Every spell cast with forbidden magic comes with a cost. The cost may be physical, such as the loss of health or the weakening of the body. It may be mental, such as the loss of sanity or the erosion of the mind. Or it may be spiritual, such as the corruption of the soul or the binding of the caster to a dark force. The cost of forbidden magic is often high, and the consequences of crossing the line are often devastating.
+---
+## **III. FORBIDDEN MAGIC: THE ABYSS' BARGAINS**
 
-## THE MAGIC IN THE WORLD: THE BALANCE OF POWER
+Forbidden magic is not a path. It is a **plunge**. Those who practice it do not walk away. They **are taken**, piece by piece.
 
-The magic of Etheria is a tapestry of ancient forces, divine wills, and forbidden knowledge. It shapes the world and the people who dwell within it, creating a delicate balance of power and consequence. The gods watch from the heavens, the ancient forces whisper in the wind, and the forbidden arts lurk in the shadows. It is a world of wonder and danger, of light and dark, of hope and despair. It is a world where the power of magic is both a gift and a curse, a blessing and a bane. It is a world where the balance of power is always in flux, where the forces of light and dark are in constant conflict, and where the fate of the world hangs in the balance.
+And the abyss does not **give back**.
 
-### THE MAGIC OF THE SETTLEMENTS
+### **Necromancy: The Rot's Embrace**
+Necromancy is not a bargain. It is a **surrender**.
 
-The settlements of Etheria are shaped by the magic that flows through them. The cities of the gods are filled with the power of divine magic, with the light of the heavens and the grace of the saints. The cities of the ancients are filled with the power of arcane magic, with the whispers of the forgotten and the secrets of the past. And the cities of the damned are filled with the power of forbidden magic, with the darkness of the void and the whispers of the dead.
+- The first casting leaves the necromancer's teeth slightly sensitive. A sacrifice might numb the pain. A life might delay the rot. But the **decay begins**, and it will not stop.
+- The tenth casting leaves the necromancer's gums bleeding. No amount of blood will reverse this. The rot **spreads**, and the necromancer's breath begins to stink of the grave.
+- The hundredth casting leaves the necromancer **hollow**, their flesh sloughing away, their bones visible beneath papery skin. The dead do not care. They **take what they are owed**.
 
-### THE MAGIC OF THE WILD
+**The Cost**: There is no rest. No reversal. Only **sacrifice**—and the sacrifice must be **greater each time**. A drop of blood. A finger. A life. The necromancer can delay the rot, but they cannot **escape it**.
 
-The wilds of Etheria are shaped by the magic that flows through them. The forests are filled with the power of the earth, with the whispers of the trees and the secrets of the soil. The mountains are filled with the power of the sky, with the winds of the heavens and the storms of the gods. And the seas are filled with the power of the sea, with the tides of the ocean and the whispers of the deep.
+### **Blood Magic: The Butcher's Ledger**
+Blood magic is simple arithmetic: **life in, power out**.
 
-### THE MAGIC OF THE PEOPLE
+- The first casting takes a drop. A pinprick. Barely noticed. The wound will heal. But the **ledger is open**, and it will not close.
+- The tenth casting takes a vein. A slow, deliberate cut. No amount of rest will reverse this. The blood **demands more**, and the caster's flesh begins to wither.
+- The hundredth casting takes **everything**, and the caster finds themselves on the altar instead of behind it. The blood does not care whose it is. But it **will be paid**.
 
-The people of Etheria are shaped by the magic that flows through them. The children of the gods are filled with the power of divine magic, with the light of the heavens and the grace of the saints. The children of the ancients are filled with the power of arcane magic, with the whispers of the forgotten and the secrets of the past. And the children of the damned are filled with the power of forbidden magic, with the darkness of the void and the whispers of the dead.
+**The Cost**: There is no healing. No reversal. Only **more blood**. The caster's own, or someone else's. The ledger **always balances**.
+
+### **Shadow Magic: The Void's Embrace**
+Shadow magic is not power. It is **erasure**.
+
+- The first casting leaves the caster's shadow slightly wrong. It will return to normal—**for a time**. But the void **remembers**, and the next casting will twist it further.
+- The tenth casting leaves the shadow **moving on its own**. No amount of light will reverse this. The void **claims more**, and the caster's substance begins to fade.
+- The final casting leaves the caster **without a shadow**, their substance fading like mist in sunlight. The void does not **give back**. It only **takes**.
+
+**The Cost**: There is no return. No reversal. Only **more darkness**. The caster's light dims with every spell, and the void **hungers**.
+
+---
+## **IV. THE MAGIC IN THE WORLD: A BALANCE OF SUFFERING**
+
+Magic exists. It **works**. And sometimes, it **can be undone**.
+
+But the reversal is never complete. The scars remain. The debt grows. And the cost is always **higher than before**.
+
+- **In the Settlements**: The Iron Pact sells "restorative charms" that do **something**, but never enough. The Order sells "redemptive prayers" that ease the burden, but never remove it. The people buy them anyway, because the alternative is **worse**.
+
+- **In the Wild**: The forest **might** forgive a transgression. The mountains **might** spare a climber. The sea **might** return what it took. But the world **always remembers**, and the next offense will be punished **more severely**.
+
+- **In the People**:
+  - The clerics bear their blackened veins, praying for relief that **comes slower each time**.
+  - The mages hide their scars, knowing the next spell will **cut deeper**.
+  - The necromancers **do not recover**. They only **delay**.
+  - And all of them, when the end comes, wonder if it was worth it.
+
+**The Truth**: Magic is not a tool. It is a **creditor**. It gives what you ask, and then it **takes what it wants**. The small prices can sometimes be reversed. The debts can sometimes be lessened.
+
+But the interest **always grows**. And the final cost is **always paid in full**.
+
+**Final Warning**: If you seek power, know this - you will **find it**. And it will **find you** in return. The gods may forgive. The elements may relent. But the dark arts? **They never let go.**
