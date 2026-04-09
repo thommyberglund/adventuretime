@@ -17,48 +17,72 @@ But the world is not without mercy. **Rest can reverse the damage**. A fire mage
 ### **Elemental Magic: The Fourfold Curse**
 The elements do not serve. They **consume**.
 
-- **Fire Magic**: The first spell leaves reddened palms. The tenth leaves blisters. The hundredth leaves hands fused to the staff, blackened flesh peeling away like charred parchment. A month of rest might heal the blisters. A year might restore the hands. But the **scars remain**, and the next casting will burn deeper. Fire mages do not die of old age. They **burn out** long before.
+- **Fire Magic**: The first spell leaves reddened palms. The thousand leaves blisters. The final leaves hands fused to the staff, blackened flesh peeling away like charred parchment. A week of rest might heal the blisters. A month might restore the hands. But the **scars remain**, and the next casting will burn deeper. Fire mages do not die of old age. They **burn out** long before.
 
 - **Water Magic**: The lungs fill with brine after each casting. A cough here, a wheeze there. A week of prayer to the river gods might clear the fluid. A month might restore the breath. But the **salt lingers** in the veins, and the next spell will fill the lungs faster. The Order calls this "divine communion." The drowned call it **suffocation**.
 
-- **Earth Magic**: The bones harden. The joints stiffen. A season of meditation in the deep caves might soften the stone. A year might restore movement. But the **weight remains**, and the next casting will turn more bone to rock. The dwarves praise this as "becoming one with the stone." The petrified know it as **entombment**.
+- **Earth Magic**: The bones harden. The joints stiffen. A week of meditation in the deep caves might soften the stone. A month might restore movement. But the **weight remains**, and the next casting will turn more bone to rock. The dwarves praise this as "becoming one with the stone." The petrified know it as **entombment**.
 
-- **Air Magic**: The voice fades first. Then the breath. A month of silence in the high mountains might restore the voice. A year might return the breath. But the **emptiness remains**, and the next spell will steal more air. The last air mage of Saltmere stood silent as the noose tightened, her vocal cords long since turned to dust.
+- **Air Magic**: The voice fades first. Then the breath. A week of silence in the high mountains might restore the voice. A month might return the breath. But the **emptiness remains**, and the next spell will steal more air. The last air mage of Saltmere stood silent as the noose tightened, her vocal cords long since turned to dust.
 
 **The Price**: Small at first. A blister. A cough. A stiff joint. The elements will **take**, but they will also **give back**—for a time. But the interest compounds. And the elements always **collect in the end**.
 
 ---
 
-## **II. DIVINE MAGIC: THE GODS' CHAINS**
+## **II. DIVINE MAGIC: THE GODS' GIFT (AND WHO PAYS FOR IT)**
 
-Divine magic is not a blessing. It is a **leash**. The gods do not grant power - they **lend** it, and their interest rates are cruel.
+Divine magic is not a transaction. It is a **blessing**. The gods do not take. They **give**. Their power flows pure and bright, a beacon in the dark. The priests' hands do not blacken. The protectors' skin does not harden. The summoners' voices do not fade.
 
-But the gods are not without mercy. **Prayer can reverse the damage**. A priest's blackened veins may fade. A protector's petrified skin may soften. A summoner's burned vocal cords may heal.
+But the gods are not **foolish**. They do not give without **balance**.
 
-**But the gods remember**. And they always **demand more**.
+### **Healing Magic: The Miracle's Shadow**
+The priest's hands remain clean. The sick rise, whole and healed. The wounds close without scar. The pain fades like morning mist.
 
-### **Healing Magic: The Priest's Burden**
-To heal another, the priest must **give of themselves**.
+- The first healing brings **light**. The patient's breath steadies. Their color returns. The priest glows with divine favor.
+- The hundredth healing brings **wonder**. The lame walk. The blind see. The priest is called blessed.
+- The thousandth healing brings **awe**. The dying live. The dead return. The priest is called saint.
 
-- The first healing leaves thin black veins creeping up the wrists. A night of prayer might fade them. A week of fasting might erase them. But the **mark remains**, and the next healing will darken them faster.
-- The thousandth healing leaves the veins crawling past the elbows. A week of penance might lighten them. A month of devotion might shrink them. But the **taint remains**, and the next healing will spread them further.
-- The final healing leaves the priest's arms **useless**, blackened tendrils spreading toward the heart. Even the gods cannot reverse this. The Order calls this "divine sacrifice." The dying call it **the price of mercy**.
+**The Cost**: Somewhere, a child coughs blood into their pillow. Somewhere, a mother's milk runs dry. Somewhere, a farmer's crops wither overnight. The gods do not take from the priest. They take from **those who cannot fight back**.
 
-### **Protection Magic: The Shield's Weight**
-Protection does not guard. It **transfers**.
-
-- The first protection leaves the caster's skin slightly stiffer. A day of prayer might soften it. A week of meditation might restore it. But the **weight remains**, and the next protection will harden it further.
-- The thousandth protection leaves the caster's skin **stone-like**. A week of vigils might loosen it. A month of pilgrimage might flex it. But the **burden remains**, and the next protection will petrify it more.
-- The final protection leaves the caster **immobile**, a living statue bearing the wounds of those they protected. Not even the gods can reverse this. The Order calls this "divine armor." The petrified call it **a prison of flesh**.
-
-### **Summoning Magic: The Call's Toll**
-The gods do not answer lightly.
-
-- The first summoning leaves the caster's voice hoarse. A day of silence might restore it. A week of hymns might strengthen it. But the **strain remains**, and the next summoning will roughen it more.
-- The thousandth summoning leaves the caster's voice **cracked**. A week of chanting might smooth it. A month of devotion might clear it. But the **damage remains**, and the next summoning will burn it further.
-- The final summoning leaves the caster **mute**, their vocal cords burned away by divine fire. The gods will not reverse this. And when the summoned turn on their master? The gods call that **justice**.
+The Order calls this "divine balance." The afflicted call it **a curse**.
 
 ---
+
+### **Protection Magic: The Shield's Secret**
+The protector stands unharmed. Arrows shatter against their skin. Blades turn aside. Fire will not burn them.
+
+- The first protection brings **confidence**. The protector smiles. Their faith is rewarded.
+- The hundredth protection brings **assurance**. The protector laughs in the face of danger. The gods are with them.
+- The thousandth protection brings **invincibility**. The protector walks through battle unscathed. They are the gods' chosen.
+
+**The Cost**: Somewhere, a soldier's armor rusts overnight. Somewhere, a village's palisade rots to dust. Somewhere, a king's fortress crumbles without warning. The gods do not weaken the protector. They weaken **those who trust in stone and steel**.
+
+The Order calls this "divine will." The ruined call it **betrayal**.
+
+---
+
+### **Summoning Magic: The Angels' Price**
+The summoner calls, and the angels come. Radiant. Powerful. Merciful.
+
+- The first summoning brings **hope**. The angel's light drives back the dark. The summoner is praised.
+- The hundredth summoning brings **triumph**. The angel's sword smites the wicked. The summoner is revered.
+- The thousandth summoning brings **glory**. The angel's voice shakes the heavens. The summoner is called prophet.
+
+**The Cost**: Somewhere, a demon slips its chains. Somewhere, a saint falls to temptation. Somewhere, a soldiers sword suddenly slip. The gods do not corrupt the summoner. They **release corruption elsewhere**.
+
+The Order calls this "divine justice." The damned call it **abandonment**.
+
+---
+**The Truth**: Divine magic is pure. The priest's hands stay clean. The protector's skin stays whole. The summoner's voice stays strong.
+
+But the world **pays**. The weak pay. The distant pay. The innocent pay.
+
+The gods give freely to their chosen. They simply **take from someone else**.
+
+And the gods **never run out of someones**.
+
+---
+
 ## **III. FORBIDDEN MAGIC: THE ABYSS' BARGAINS**
 
 Forbidden magic is not a path. It is a **plunge**. Those who practice it do not walk away. They **are taken**, piece by piece.
