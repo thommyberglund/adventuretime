@@ -1,0 +1,15 @@
+# .aider.conf.yml
+
+# Load specific files (Aider will automatically handle .md and .txt)
+file:
+  - Instructions/WORLD.md
+  - Instructions/SETTLEMENTS.md
+  - Instructions/MAGIC.md
+  - Instructions/CHARACTERS.md
+
+# BEHAVIOR
+auto-commits: false
+chat-mode: architect
+
+# ANALYTICS
+analytics: false
