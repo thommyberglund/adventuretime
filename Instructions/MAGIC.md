@@ -41,22 +41,22 @@ But the gods are not without mercy. **Prayer can reverse the damage**. A priest'
 To heal another, the priest must **give of themselves**.
 
 - The first healing leaves thin black veins creeping up the wrists. A night of prayer might fade them. A week of fasting might erase them. But the **mark remains**, and the next healing will darken them faster.
-- The hundredth healing leaves the veins crawling past the elbows. A month of penance might lighten them. A year of devotion might shrink them. But the **taint remains**, and the next healing will spread them further.
-- The thousandth healing leaves the priest's arms **useless**, blackened tendrils spreading toward the heart. Even the gods cannot reverse this. The Order calls this "divine sacrifice." The dying call it **the price of mercy**.
+- The thousandth healing leaves the veins crawling past the elbows. A week of penance might lighten them. A month of devotion might shrink them. But the **taint remains**, and the next healing will spread them further.
+- The final healing leaves the priest's arms **useless**, blackened tendrils spreading toward the heart. Even the gods cannot reverse this. The Order calls this "divine sacrifice." The dying call it **the price of mercy**.
 
 ### **Protection Magic: The Shield's Weight**
 Protection does not guard. It **transfers**.
 
 - The first protection leaves the caster's skin slightly stiffer. A day of prayer might soften it. A week of meditation might restore it. But the **weight remains**, and the next protection will harden it further.
-- The hundredth protection leaves the caster's skin **stone-like**. A month of vigils might loosen it. A year of pilgrimage might flex it. But the **burden remains**, and the next protection will petrify it more.
-- The thousandth protection leaves the caster **immobile**, a living statue bearing the wounds of those they protected. Not even the gods can reverse this. The Order calls this "divine armor." The petrified call it **a prison of flesh**.
+- The thousandth protection leaves the caster's skin **stone-like**. A week of vigils might loosen it. A month of pilgrimage might flex it. But the **burden remains**, and the next protection will petrify it more.
+- The final protection leaves the caster **immobile**, a living statue bearing the wounds of those they protected. Not even the gods can reverse this. The Order calls this "divine armor." The petrified call it **a prison of flesh**.
 
 ### **Summoning Magic: The Call's Toll**
 The gods do not answer lightly.
 
 - The first summoning leaves the caster's voice hoarse. A day of silence might restore it. A week of hymns might strengthen it. But the **strain remains**, and the next summoning will roughen it more.
-- The hundredth summoning leaves the caster's voice **cracked**. A month of chanting might smooth it. A year of devotion might clear it. But the **damage remains**, and the next summoning will burn it further.
-- The thousandth summoning leaves the caster **mute**, their vocal cords burned away by divine fire. The gods will not reverse this. And when the summoned turn on their master? The gods call that **justice**.
+- The thousandth summoning leaves the caster's voice **cracked**. A week of chanting might smooth it. A month of devotion might clear it. But the **damage remains**, and the next summoning will burn it further.
+- The final summoning leaves the caster **mute**, their vocal cords burned away by divine fire. The gods will not reverse this. And when the summoned turn on their master? The gods call that **justice**.
 
 ---
 ## **III. FORBIDDEN MAGIC: THE ABYSS' BARGAINS**
@@ -69,8 +69,8 @@ And the abyss does not **give back**.
 Necromancy is not a bargain. It is a **surrender**.
 
 - The first casting leaves the necromancer's teeth slightly sensitive. A sacrifice might numb the pain. A life might delay the rot. But the **decay begins**, and it will not stop.
-- The tenth casting leaves the necromancer's gums bleeding. No amount of blood will reverse this. The rot **spreads**, and the necromancer's breath begins to stink of the grave.
-- The hundredth casting leaves the necromancer **hollow**, their flesh sloughing away, their bones visible beneath papery skin. The dead do not care. They **take what they are owed**.
+- The thousandth casting leaves the necromancer's gums bleeding. No amount of blood will reverse this. The rot **spreads**, and the necromancer's breath begins to stink of the grave.
+- The final casting leaves the necromancer **hollow**, their flesh sloughing away, their bones visible beneath papery skin. The dead do not care. They **take what they are owed**.
 
 **The Cost**: There is no rest. No reversal. Only **sacrifice**—and the sacrifice must be **greater each time**. A drop of blood. A finger. A life. The necromancer can delay the rot, but they cannot **escape it**.
 
@@ -78,8 +78,8 @@ Necromancy is not a bargain. It is a **surrender**.
 Blood magic is simple arithmetic: **life in, power out**.
 
 - The first casting takes a drop. A pinprick. Barely noticed. The wound will heal. But the **ledger is open**, and it will not close.
-- The tenth casting takes a vein. A slow, deliberate cut. No amount of rest will reverse this. The blood **demands more**, and the caster's flesh begins to wither.
-- The hundredth casting takes **everything**, and the caster finds themselves on the altar instead of behind it. The blood does not care whose it is. But it **will be paid**.
+- The thousandth casting takes a vein. A slow, deliberate cut. No amount of rest will reverse this. The blood **demands more**, and the caster's flesh begins to wither.
+- The final casting takes **everything**, and the caster finds themselves on the altar instead of behind it. The blood does not care whose it is. But it **will be paid**.
 
 **The Cost**: There is no healing. No reversal. Only **more blood**. The caster's own, or someone else's. The ledger **always balances**.
 
@@ -87,7 +87,7 @@ Blood magic is simple arithmetic: **life in, power out**.
 Shadow magic is not power. It is **erasure**.
 
 - The first casting leaves the caster's shadow slightly wrong. It will return to normal—**for a time**. But the void **remembers**, and the next casting will twist it further.
-- The tenth casting leaves the shadow **moving on its own**. No amount of light will reverse this. The void **claims more**, and the caster's substance begins to fade.
+- The hundreth casting leaves the shadow **moving on its own**. No amount of light will reverse this. The void **claims more**, and the caster's substance begins to fade.
 - The final casting leaves the caster **without a shadow**, their substance fading like mist in sunlight. The void does not **give back**. It only **takes**.
 
 **The Cost**: There is no return. No reversal. Only **more darkness**. The caster's light dims with every spell, and the void **hungers**.
