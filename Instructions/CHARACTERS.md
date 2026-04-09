@@ -86,6 +86,49 @@ His code is simple: don't betray the client, don't trust anyone, and **never loo
 
 ---
 
+## **MALRIK THE ASHEN: THE FIRE WIZARD WHO BURNS FROM WITHIN**
+
+**Appearance:**
+A gaunt man with skin like parchment stretched too tight over bone. His hair was once dark, but now it's streaked with gray and the faintest hint of **smoke**. His eyes are the color of embers - bright when angry, dull when exhausted. His hands are wrapped in blackened cloth, the fingers slightly curled from years of heat damage. He wears a long coat of heavy leather, its edges singed and its smell permanently tinged with **burning**.
+
+His staff is blackened oak, its tip still glowing faintly from the last spell. The air around him shimmers with heat, like the haze above a desert at noon. When he's angry, which is often, the air **distorts**.
+
+**Skills and Abilities:**
+- **Master of fire magic** (though he'd never call himself that)
+- **Skilled in pyromancy** (reading flames, which is useful when you're always surrounded by them)
+- **Proficient with his staff** (both as a focus and a weapon)
+- **Knowledgeable about heat and combustion** (he knows exactly how long it takes for flesh to burn)
+
+**Personality:**
+Malrik is **angry**. Not the loud, shouting kind of angry - the quiet, smoldering kind. The kind that makes people nervous when he's too still, too quiet. He speaks in a voice like dry kindling, each word measured, each syllable carrying the weight of something **burning**.
+
+He doesn't trust easily. Fire has taught him that lesson too well. He's seen what happens when you get too close to something that burns, and he's not interested in repeating the experience. But he's not cruel, either. Just... **cautious**. Like a man who's been burned too many times.
+
+He has a dark sense of humor, the kind that makes people laugh nervously and then look away. He calls it "honesty." Other people call it "disturbing."
+
+**Backstory:**
+Malrik wasn't always like this. Once, he was a scholar, studying the arcane arts in one of the Wizard's Spires. He was good at it. Too good. Fire magic came easily to him, and he was reckless with it. He burned his first teacher by accident. The second one he burned on purpose.
+
+The Spire kicked him out after the third fire. By then, his hands were already scarred, his hair singed at the edges. He wandered for a while, taking odd jobs, burning things for coin. Then he met a man who offered him a place in a group. The man lied about a lot of things, but not about the danger. Malrik stayed anyway.
+
+**The Truth:**
+Malrik's hands are **always warm**. Not the comforting kind of warm - the kind that makes people flinch when he touches them. His staff is always lit, a small flame dancing at the tip like a hungry thing. He sleeps with it beside him. He's afraid of the dark.
+
+His magic doesn't just burn his enemies. It burns **him**, from the inside out. He can feel it, always, like a coal in his chest. Some days it's a spark. Other days it's a **wildfire**. He's learned to control it, mostly. But control isn't the same as **mastery**.
+
+The fire doesn't just scar his hands. It scars his **soul**. And some nights, when the flames dance too high, he wonders if there's anything left of him that isn't **ash**.
+
+**Notable Traits:**
+- His hands are **always warm** (sometimes too warm)
+- His temper is **short** (like a fuse)
+- His loyalty is **fierce** (but not free)
+- His past is **burned away** (like everything else)
+
+**Final Note:**
+Malrik doesn't talk about the Spire. He doesn't talk about the fires. He doesn't talk about the things he's burned, or the things that have burned **him**. But the scars are there, on his hands and in his eyes. And fire, once lit, is **hard to put out**.
+
+---
+
 ## **THE TRUTH ABOUT ALL OF THEM**
 
 They are not heroes. They are **broken things** that still move.
@@ -93,6 +136,7 @@ They are not heroes. They are **broken things** that still move.
 - **Eldrin** runs from the dark, but the dark is **always behind him**.
 - **Vespatian** believes in his god, but his god is **silent when it matters**.
 - **Garrick** follows a code, but his code is **written in blood**.
+- **Malrik** controls the fire, but the fire **controls him**.
 
 They travel together because it's safer that way. They trust each other because they have to. But trust is a **luxury**, and luxury is for people who can afford to **die with a clear conscience**.
 
