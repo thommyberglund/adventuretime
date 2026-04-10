@@ -1,4 +1,4 @@
-// PRELUDE: THE NIGHT THE DARKNESS WON
+# PRELUDE: THE NIGHT THE DARKNESS WON
 
 Hey there. Grab a drink if you've got one. This story starts with a bang and ends with a whimper, and the whimper's gonna stick with you.
 
@@ -141,76 +141,24 @@ And **hoped like hell he was alone**.
 ---
 ### **VESPATIAN: THE CLERIC WHO COULDN'T SAVE A DAMN THING**
 
-Vespatian was there to **heal the wounded**.
+Vespatian was attached to the holy delegation that had swallowed the Iron Pact's coin. A whole circus of clerics, paladins, priests, and fresh-faced neophytes, marching out to "cleanse" another stretch of the central plains.
 
-He tried.
+When the screaming started, he wasn't standing vigil. He was on his knees in deep prayer, desperately trying to push back the sickness creeping up his arms—the black veins that throbbed with every miracle he bought. He stumbled out of his tent and faced the darkness. He felt the holy power surge, hot and righteous, temporarily burning away the rot. He brought his mace down on the first rotting bastard to reach him, and the light **exploded**. The undead turned to ash, screaming a dusty scream.
 
-He mended cuts. Set bones. Prayed over the dying. Held hands as life slipped away. Whispered prayers as the darkness closed in.
-
-And then the undead came.
-
-He fought. Swung his mace. Chanted his prayers. Called for divine light.
-
-The darkness **laughed**.
-
-His magic worked. For a while. His hands glowed. His voice rang out. The undead **hesitated**.
-
-But there were too many. And his god? **Silent as a grave**.
+But the gods have a sick sense of humor. It was all a cruel joke. The light sputtered and died. His mace suddenly felt like a hundred pounds of dead iron. And his god? **Silent as a grave**.
 
 He ran when the line broke. Ran when his brothers fell. Ran when his faith **packed up and left**.
-
-He didn't stop until he reached the mill. Until he could **bar the door**. Until he could **pretend he was safe**.
-
-But those black veins on his arms? They **pulsed** in the dark. And he knew the cost of his survival was **paid in blood that wasn't his**.
 
 ---
 ### **GARRICK: THE MERCENARY WHO TRIED TO BE BOLD (AND FAILED)**
 
-Garrick was there for the **coin**.
+Garrick was there for the **coin**. He was awake when the screaming started because he was **afraid to close his eyes**. Sleep meant the nightmares of the war he’d deserted. He sat by the dying fire, preferring the cold reality of the cursed plains to the horrors inside his own head.
 
-He’d taken the job because the Iron Pact was paying **triple** for this little "reclamation" venture. Triple coin for what was supposed to be a **cake walk**—march east, secure the ruins, collect the relics, come home rich. The Pact’s recruiters had laughed when they described the mission. *"Just a few undead stragglers,"* they’d said. *"Nothing your blade can’t handle."*
+He fought when the attack came. Because that's what he was paid to do. His rapier pierced a vampire's chest—a perfect, lethal thrust. The thing just smiled, the blade sliding through its dead flesh like water, and backhanded him hard enough to rattle his teeth.
 
-Garrick had **laughed too**. Because that’s what you do when someone offers you triple coin for a job that sounds too easy.
-
-He should've known better.
-
-Garrick wasn’t a scout. He wasn’t a fool, either. But he **liked to think** he was bold. So when the army made camp that first night, he’d slipped away from the firelight, rapier drawn, cloak pulled tight. *"Just a quick look ahead,"* he’d told himself. *"Make sure the path’s clear. Earn that coin."*
-
-The mill road stretched before him, pale in the moonlight, the grass whispering against his boots. He moved like a shadow, quick and quiet, the way he’d been taught. The way he’d **practiced** in a hundred tavern brawls and back-alley duels. He was good at this. **Too good**, some said. The kind of man who could walk into a room and know exactly who to kill before the first punch was thrown.
-
-But the dark wasn’t a room. And the things in it weren’t men.
-
-He’d gone maybe a hundred paces when he saw them—the **shapes** in the grass. Not animals. Not bandits. **Wrong**. Too still. Too **hungry**. He froze, rapier raised, breath shallow. His pulse hammered in his throat. He told himself it was just the wind. Just his imagination. Just **nerves**.
-
-Then the first one **moved**.
-
-It didn’t stand. Didn’t charge. It **unfolded** from the earth like a spider, its limbs too long, its mouth too wide. Its eyes—**Gods, its eyes**—glowed like embers in the dark. Garrick’s blade flashed. The thing **hissed**, a sound like steam escaping a kettle, and **dodged**. Not like a man. Like **smoke**.
-
-Garrick didn’t wait for a second try.
-
-He **ran**.
-
-Not the slow, measured retreat of a seasoned soldier. Not the tactical withdrawal of a man who knows when to fight and when to flee. He **bolted**, boots pounding the dirt, cloak flapping behind him like a flag of surrender. The thing didn’t chase. It didn’t need to. It just **watched**, its head tilting as he fled, like a cat amused by a mouse’s panic.
-
-He made it back to camp in half the time it had taken him to leave. The sentries barely had time to raise their spears before he was through the perimeter, gasping, rapier still clutched in a white-knuckled grip. The captain barked a question. Garrick ignored him. He didn’t have the breath to answer. Didn’t have the **words**.
-
-Because he’d seen what was coming.
-
-And it wasn’t just **undead**.
-
-It was **worse**.
-
-He fought when the attack came. Because that's what he was paid to do. Because that's what he was **good at**. He killed three of them before he realized they were **toying** with him. Before he realized his blade wasn’t enough. Before he realized he was **outmatched**.
+Before he realized his blade wasn’t enough. Before he realized he was **outmatched**.
 
 He ran when his sword arm went numb. When his legs turned to lead. When his **code** became **meaningless** against something that **couldn’t be killed**.
-
-Made it to the mill because he’s **good at surviving**. Not because he deserved to.
-
-And when he barred the door behind him, he didn’t pray. Didn’t hope.
-
-Just **waited for dawn**.
-
-And wondered if he’d **finally met something worse than himself**.
 
 ---
 ### **MALRIK: THE FIRE WIZARD WHO BURNED HIMSELF OUT**
