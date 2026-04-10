@@ -160,3 +160,31 @@ But fire needs fuel, and arcane magic always takes its cut. With every inferno h
 And then one of the vampires found him. Malrik threw everything he had left at it—a torrent of white-hot flame that should have melted armor to slag. The vampire just walked through the firestorm, its pale skin barely blistering, and **laughed** as Malrik's flames sputtered and died.
 
 He ran when his hands blistered raw. Ran when his lungs tasted like ash. Ran when he realized that even fire **dies** in the end.
+
+---
+
+## **THE MILL: A SANCTUARY FOR THE DAMNED**
+
+The old mill stood alone on the edge of the plains, a grey stone tooth biting into the night sky. It had been abandoned for centuries, a relic of an empire that had forgotten how to feed itself long before it forgot how to die. The wood of the door was bleached and dry as a bone, but it was three inches of solid, stubborn oak. The iron bands were choked with scales of red rust, yet beneath the rot, the metal remained heavy and honest.
+
+They arrived from different directions, shadows stumbling through the tall grass. Eldrin was the first, ghosting out of the dark with his bow unstrung. Then Garrick, his breathing a ragged whistle. Malrik followed, his boots dragging in the dirt, and finally Vespatian, clutching his iron mace like a drowning man clutches a spar.
+
+They stood in the shadow of the mill and locked eyes.
+
+No one asked for names. No one demanded rank. They didn't need to. They saw the truth in the set of each other's shoulders and the hollow look in their eyes. They were the same breed. Runners. Cowards. The ones who had heard the screams of their brothers and decided their own hides were worth more than a heroic epitaph.
+
+Without a word, they moved.
+
+They ducked inside and heaved the door shut, the iron bolt sliding home with a groan that sounded like a final breath. They piled what was left of the past against the oak—heavy grinding stones, rotted timber beams, and sacks of grain that turned to dust at a touch. They barricaded the world out until the only thing left was the darkness and the smell of ancient dust.
+
+Malrik slumped against the stone wall, his raw hands trembling. He tapped his staff against the floor, and a tiny, guttering pilot flame flickered at the tip. It wasn't much—a weak, orange glow that barely pushed back the shadows—but they huddled around it anyway. They sat in the silence, listening to the thrum of their own hearts, starting to believe the lie. They thought they had made it. They thought the stone and the oak would be enough.
+
+Then the scratches started.
+
+At first, it was a low, skittering sound. Eldrin tilted his head, his fingers twitching toward a phantom arrow. Garrick shifted his weight, his eyes narrowing. Rats, they told themselves. Just the mill's rightful tenants, disturbed by the intruders.
+
+But the sound grew. It wasn't the frantic scurrying of vermin. It was rhythmic. Deliberate.
+
+The sound of broken fingernails and old, dry knuckle bones dragging across the exterior of the door. The sound of something without skin or mercy testing the thickness of the stone.
+
+The dark hadn't stopped at the threshold. It was just **waiting for the locks to break.**
