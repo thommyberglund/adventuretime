@@ -220,26 +220,50 @@ He ran toward the mill's distant light like a man drowning toward a rope, and he
 ---
 ## **THE MILL: A SANCTUARY FOR THE DAMNED**
 
-The old mill stood alone on the edge of the plains, a grey stone tooth biting into the night sky. It had been abandoned for centuries, a relic of an empire that had forgotten how to feed itself long before it forgot how to die. The wood of the door was bleached and dry as a bone, but it was three inches of solid, stubborn oak. The iron bands were choked with scales of red rust, yet beneath the rot, the metal remained heavy and honest.
+The mill was just a building. That was the first thing Eldrin thought when he saw it — not salvation, not sanctuary, just four walls and a roof that hadn't fallen in yet. The lantern in the upper window was a guttering, pathetic thing, barely visible through the grass. But it was light, and light meant someone had been alive recently enough to light it, and that was the best news he'd had all night.
 
-They arrived from different directions, shadows stumbling through the tall grass. Eldrin was the first, ghosting out of the dark with his bow unstrung. Then Garrick, his breathing a ragged whistle. Malrik followed, his boots dragging in the dirt, and finally Vespatian, clutching his iron mace like a drowning man clutches a spar.
+He came in low and fast from the east, bow in hand, and nearly put an arrow through the mercenary who stepped out of the shadows by the door.
 
-They stood in the shadow of the mill and locked eyes.
+The mercenary — tall, dark-haired, a rapier in his fist and blood on his jaw — looked at the arrow pointed at his throat and said nothing for a long moment.
 
-No one asked for names. No one demanded rank. They didn't need to. They saw the truth in the set of each other's shoulders and the hollow look in their eyes. They were the same breed. Runners. Cowards. The ones who had heard the screams of their brothers and decided their own hides were worth more than a heroic epitaph.
+"You're not dead," Eldrin said.
 
-Without a word, they moved.
+"Not yet," the man said. "You going to fix that?"
 
-They ducked inside and heaved the door shut, the iron bolt sliding home with a groan that sounded like a final breath. They piled what was left of the past against the oak—heavy grinding stones, rotted timber beams, and sacks of grain that turned to dust at a touch. They barricaded the world out until the only thing left was the darkness and the smell of ancient dust.
+Eldrin lowered the bow. Not because he trusted him. Because the grass behind him was moving in ways that had nothing to do with the wind, and this wasn't the moment.
 
-Malrik slumped against the stone wall, his raw hands trembling. He tapped his staff against the floor, and a tiny, guttering pilot flame flickered at the tip. It wasn't much—a weak, orange glow that barely pushed back the shadows—but they huddled around it anyway. They sat in the silence, listening to the thrum of their own hearts, starting to believe the lie. They thought they had made it. They thought the stone and the oak would be enough.
+They got the door open. The wizard was already inside, slumped against the far wall with his wrapped hands pressed flat against the cold stone, a tiny flame guttering at the tip of his staff. He didn't look up when they entered. His hands were shaking. The flame was the only reason Eldrin didn't put an arrow in him on instinct.
 
-Then the scratches started.
+The cleric arrived last, stumbling through the door with his mace still in his fist and his robes torn at the shoulder. He pulled up short when he saw the others. His eyes went to the mercenary's rapier, to the wizard's flame, to Eldrin's bow. His jaw tightened.
 
-At first, it was a low, skittering sound. Eldrin tilted his head, his fingers twitching toward a phantom arrow. Garrick shifted his weight, his eyes narrowing. Rats, they told themselves. Just the mill's rightful tenants, disturbed by the intruders.
+"Shut the door," the mercenary said.
 
-But the sound grew. It wasn't the frantic scurrying of vermin. It was rhythmic. Deliberate.
+"I don't take orders from—"
 
-The sound of broken fingernails and old, dry knuckle bones dragging across the exterior of the door. The sound of something without skin or mercy testing the thickness of the stone.
+"**Shut the door.**"
 
-The dark hadn't stopped at the threshold. It was just **waiting for the locks to break.**
+The cleric shut the door.
+
+They heaved the bolt home and stood in the near-dark, four strangers breathing hard, listening to the silence outside. Nobody spoke. Nobody introduced themselves. There was nothing to say that the situation hadn't already said more clearly: they were alive, they were here, and everything else was dead or running.
+
+Garrick moved first, dragging a grinding stone across the floor to brace against the door. Eldrin watched him do it, then helped without being asked, because the alternative was standing still and thinking about what was in the grass. Vespatian found a rotted timber beam and wedged it under the handle. Malrik didn't move from the wall, but the flame at his staff tip burned a little steadier.
+
+It wasn't trust. It was arithmetic.
+
+They sat in the near-dark and listened to their own heartbeats slow. The mill smelled of old grain and damp stone and something underneath both of those things, something faintly sweet and wrong that none of them mentioned. The flame was small. The walls were solid. For a few minutes, it was almost enough to believe in.
+
+Then the scratching started.
+
+Low at first. A dry, rhythmic sound at the base of the door, like something testing the grain of the wood with careful, patient fingers. Eldrin's hand went to his bow. Garrick's went to his rapier. Vespatian's knuckles whitened around his mace.
+
+The scratching moved upward. Slowly. Deliberately. Not the frantic scrabbling of an animal. Something that understood doors. Something that was in no hurry.
+
+It reached the iron bolt and stopped.
+
+The silence that followed was worse than the sound.
+
+Outside, in the dark, something exhaled. Long and slow and deeply, deeply patient. The sound of something that had been waiting for centuries and didn't mind waiting a little longer.
+
+The dark hadn't stopped at the threshold.
+
+It was just **learning the locks**.
