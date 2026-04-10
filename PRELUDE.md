@@ -114,7 +114,7 @@ And he did.
 
 He was perched in a dead elm on the perimeter when the earth sighed and gave up its dead. He didn't shout a warning. He didn't blow his horn. He just went to work.
 
-He loosed three arrows. Perfect, lethal shots. Yew shafts buried to the fletching in the eye sockets of three rotting husks. The corpses dropped like stones, their necrotic strings cut by broadheads through the brainpan. He drew again, his hands a blur of practiced motion, dropping shambler after shambler into the mud before they even reached the firelight. He was good. He was doing his job.
+He loosed three arrows. Perfect, lethal shots. Yew shafts buried to the fletching in the eye sockets of three rotting husks. The corpses dropped like stones. He drew again, his hands a blur of practiced motion, dropping shambler after shambler into the mud before they even reached the firelight. He was good. He was doing his job.
 
 Then he saw the vampire.
 
@@ -158,13 +158,37 @@ He'd been telling himself that for a long time now. The black veins didn't care 
 ---
 ### **GARRICK: THE MERCENARY WHO TRIED TO BE BOLD (AND FAILED)**
 
-Garrick was there for the **coin**. He was awake when the screaming started because he was **afraid to close his eyes**. Sleep meant the nightmares of the war he’d deserted. He sat by the dying fire, preferring the cold reality of the cursed plains to the horrors inside his own head.
+Garrick was awake when the screaming started because he was afraid to close his eyes.
 
-He fought when the attack came. Because that's what he was paid to do. His rapier pierced a vampire's chest—a perfect, lethal thrust. The thing just smiled, the blade sliding through its dead flesh like water, and backhanded him hard enough to rattle his teeth.
+He'd been sitting by the dying fire for two hours, his rapier across his knees, watching the embers go cold. Sleep meant the dreams. The dreams meant the war. The war meant the things he'd done and the things that had been done to him, and none of it was the kind of thing a man wanted to revisit in the dark on the edge of cursed plains. So he sat. He watched. He told himself it was vigilance.
 
-Before he realized his blade wasn’t enough. Before he realized he was **outmatched**.
+When the earth sighed and gave up its dead, he was already on his feet.
 
-He ran when his sword arm went numb. When his legs turned to lead. When his **code** became **meaningless** against something that **couldn’t be killed**.
+He fought because that's what he was paid to do. His code was simple and he'd kept it simple on purpose: do the job, take the coin, don't ask questions that would make the coin feel dirty. He waded into the chaos with his rapier singing, and for a few minutes it was clean work. The lesser dead were slow. His blade was fast. He put it through eye sockets and brainstems with the mechanical efficiency of a man who'd done worse for less money.
+
+Then one of the vampires noticed him.
+
+It didn't come for him with urgency. It drifted over like a man crossing a room at a party, unhurried, faintly amused. Garrick set his feet, measured the distance, and drove his rapier through its chest in a thrust that would have dropped a charging bull. A perfect strike. The kind veterans talked about.
+
+The vampire looked down at the blade buried in its sternum. Then it looked up at Garrick. Then it smiled, the expression of a man who has just been handed a mildly interesting puzzle.
+
+It backhanded him.
+
+He came down hard, the world spinning, tasting blood and dirt. His sword arm had gone numb from the impact, the rapier still standing upright in the vampire's chest like a flagpole. The creature reached down, pulled the blade free with two fingers, and held it up to examine the steel in the firelight. Then it dropped it in the mud, already bored, already drifting toward something that screamed louder.
+
+Garrick lay in the dirt and stared at the sky and thought about his code.
+
+*Don't betray the client. Don't trust anyone. Never look back.*
+
+The client was dead or dying. Trust had nothing to do with it. And looking back was the only direction that made sense right now, specifically at the gap in the eastern perimeter he'd come through.
+
+He found his rapier. He found his feet. He ran.
+
+Not because his courage failed. His courage had never been the problem. He ran because his code had one unwritten rule that sat beneath all the others, the one his desertion had taught him years ago in a different war with different corpses:
+
+*A dead mercenary collects no coin.*
+
+The nightmares would be waiting when he stopped running. They always were. But nightmares, at least, he knew how to survive.
 
 ---
 ### **MALRIK: THE FIRE WIZARD WHO BURNED HIMSELF OUT**
