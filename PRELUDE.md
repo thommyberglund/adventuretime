@@ -60,46 +60,48 @@ The vampires came last.
 
 They didn’t walk. They **drifted**, their forms shifting like smoke, their laughter like ice in the veins. They toyed with the sentries, letting them swing, letting them **miss**, before plucking them apart like overripe fruit. The captain’s sword shattered against one’s chest. The vampire **licked the blade clean** and smiled.
 
-And then—
+And then, just as the panic threatened to snap the army's spine, the attack simply... stopped.
 
-**Silence.**
+The vampires didn't press their advantage. They didn't butcher the command tent. They just melted back into the tall grass, dragging the lesser dead with them like obedient, rotting dogs.
 
-The camp held its breath. The fires burned low. The shadows **pulsed**.
+The sudden silence that followed was worse than the screaming. It was heavy, suffocating, pressing down on the camp like a physical weight. The fires burned low, sputtering in pools of fresh blood, casting long, trembling shadows that seemed to reach for the survivors. Men stood frozen, weapons raised against an enemy that was no longer there, listening to the wet, ragged sounds of their comrades dying in the dark.
 
-The captain called it **nerves**. The veterans called it **bad luck**. The new recruits? They just called it **fucking terrifying**.
+The captain, staring dumbly at his broken hilt, tried to bark orders to hold the line. He called it a skirmish. A probing attack. The veterans, wrapping their wounds with shaking hands, called it a warning. The new recruits, staring out into the pitch-black plains where the glowing eyes had been, just called it **fucking terrifying**.
 
-But the darkness wasn’t done.
+They thought they had survived the worst of it. They thought the line had held.
+
+But the darkness wasn't retreating.
 
 It was just **testing the locks**.
 
 ---
 ## **THE SLAUGHTER: WHEN THE NIGHT GETS HUNGRY**
 
-Midnight came like a held breath—**too quiet, too still**.
+Midnight broke the silence not with a roar, but with a collective, dusty sigh. The earth simply gave up its dead.
 
-The first wave didn’t scream. It didn’t need to. The undead moved in silence, their rotted feet barely touching the ground, their hollow eyes fixed on the living. They came from the barrows, from the watchtowers, from the **earth itself**, rising like men clawing their way out of shallow graves. Their flesh was gray, their mouths slack, their fingers curled into claws. Some still wore the tattered remnants of the empire’s uniforms. Others were **fresh**, their wounds still weeping, their eyes still **too human**.
+The first wave didn’t scream. They just poured out of the dark like a river of rot. They came from the barrows, from the watchtowers, from the **dirt right beneath the soldiers' boots**. Some wore the rusted bronze of the old empire. Others were fresh, their wounds still weeping, wearing the faces of scouts who had gone missing three days prior.
 
-The soldiers didn’t stand a chance.
+The lesser undead were just meat for the grinder. A decent swordsman could hack through three before breaking a sweat. And for a few desperate minutes, the mercenaries did just that. They swung until their shoulders burned, cutting down the walking corpses by the dozens.
 
-The first line broke when a corpse **grabbed a man’s ankle** and dragged him into the dark. The second line faltered when a vampire **drifted** into their ranks, its laughter like ice in their veins. The third line **ran**.
+But you can't hold a line when your boots are slipping on the spilled guts of your own men. You can't fight when there are ten dead hands grabbing at your spear shaft for every one you chop off.
 
-And the night **laughed**.
+The first line didn't break because they were outmatched. They broke because they were **drowning**.
 
-The vampires didn’t fight like men. They fought like **hunters**, toying with their prey, letting the soldiers swing, letting them **miss**, before plucking them apart like overripe fruit. One man’s sword shattered against a vampire’s chest. The vampire **licked the blade clean** and smiled. Another man’s throat was torn out before he could scream. The vampire **drank deep**, then tossed the body aside like a child’s toy.
+And then the vampires stopped watching and started playing.
 
-The sorcerer-kings’ pets came last.
-
-They rose from the earth like **nightmares given form**—tall, gaunt, their flesh stretched too tight over bone, their eyes burning with stolen life. They didn’t speak. They didn’t need to. Their presence was enough. The soldiers who saw them **froze**, their weapons slipping from nerveless fingers. The pets moved through the camp like **shadows**, their touch turning flesh to dust, their breath stealing the warmth from the air.
+There were only three of them, but three was enough to end an army. The high servants of the tomb-kings didn't fight like soldiers. They drifted through the carnage like aristocrats at a slaughterhouse, untouched by the frantic, exhausted swings of desperate men. They didn't use weapons. A casual backhand shattered a veteran's ribcage, driving bone splinters into his heart. A pale hand reached out, ignoring a spear thrust entirely, and crushed a sergeant's windpipe with a wet *snap*.
 
 The fires **died**.
 
-One by one, the torches guttered out, smothered by an unseen hand. The camp plunged into darkness, the only light the **glow of the undead’s eyes**, the only sound the **wet tearing of flesh**, the **crunch of bone**.
+Not burned out. **Smothered**. The sheer weight of the dark pressed down, snuffing the torches one by one. The camp plunged into pitch black, lit only by the sickly glow of dead eyes and the dying embers.
 
-The captain roared for a retreat. The veterans **fought their way free**. The new recruits **screamed and ran**.
+The captain roared for a retreat—a stupid order, considering there was nowhere to retreat *to*. The veterans formed tight circles, shields locked, and died slowly, dragged down into the mud one by one. The new recruits dropped their weapons, screamed, and ran blindly into the dark. They died quickly.
 
-And the night **fed**.
+The night didn't just feed. It **gorged**.
 
-The undead didn’t chase. They didn’t need to. They **waited** in the dark, their hunger insatiable, their patience eternal. The soldiers who escaped the first wave **ran into the second**. The ones who made it past the second **tripped over the third**. The ones who reached the edge of the camp **found the vampires waiting**.
+The undead didn’t need to chase. They just waited in the tall grass. The soldiers who escaped the center of the camp ran straight into the waiting jaws of the perimeter. The ones who made it past the perimeter tripped over the bodies of the sentries. And the few who actually reached the open plains?
+
+They found the vampires waiting, smiling in the dark.
 
 The last screams were **short**. The last prayers were **unanswered**.
 
@@ -107,7 +109,7 @@ And then—
 
 **Silence**.
 
-The camp was a graveyard. The fires were embers. The banners were **torn and trampled**, their bright colors stained with blood. The only movement was the **slow drift of smoke**, the only sound the **drip of blood** from the vampires’ fangs.
+The camp was a slaughterhouse. The fires were dead. The Iron Pact's shiny banners were trampled into the bloody mud. The only movement was the slow drift of smoke. The only sound was the wet, rhythmic **drip of blood** from a vampire's chin.
 
 The night had won.
 
@@ -170,7 +172,7 @@ He’d taken the job because the Iron Pact was paying **triple** for this little
 
 Garrick had **laughed too**. Because that’s what you do when someone offers you triple coin for a job that sounds too easy.
 
-He should’ve known better.
+He should've known better.
 
 Garrick wasn’t a scout. He wasn’t a fool, either. But he **liked to think** he was bold. So when the army made camp that first night, he’d slipped away from the firelight, rapier drawn, cloak pulled tight. *"Just a quick look ahead,"* he’d told himself. *"Make sure the path’s clear. Earn that coin."*
 
@@ -198,7 +200,7 @@ And it wasn’t just **undead**.
 
 It was **worse**.
 
-He fought when the attack came. Because that’s what he was paid to do. Because that’s what he was **good at**. He killed three of them before he realized they were **toying** with him. Before he realized his blade wasn’t enough. Before he realized he was **outmatched**.
+He fought when the attack came. Because that's what he was paid to do. Because that's what he was **good at**. He killed three of them before he realized they were **toying** with him. Before he realized his blade wasn’t enough. Before he realized he was **outmatched**.
 
 He ran when his sword arm went numb. When his legs turned to lead. When his **code** became **meaningless** against something that **couldn’t be killed**.
 
