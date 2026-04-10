@@ -129,13 +129,31 @@ He dropped from the branches before the captain even drew his sword. Ran while t
 ---
 ### **VESPATIAN: THE CLERIC WHO COULDN'T SAVE A DAMN THING**
 
-Vespatian was attached to the holy delegation that had swallowed the Iron Pact's coin. A whole circus of clerics, paladins, priests, and fresh-faced neophytes, marching out to "cleanse" another stretch of the central plains.
+Vespatian wasn't standing vigil when the screaming started. He was on his knees in his tent, sleeves rolled to the elbow, staring at the black veins threading up his forearms like cracks in old plaster. Each one a miracle. Each one a price. He'd lost count of both.
 
-When the screaming started, he wasn't standing vigil. He was on his knees in deep prayer, desperately trying to push back the sickness creeping up his arms—the black veins that throbbed with every miracle he bought. He stumbled out of his tent and faced the darkness. He felt the holy power surge, hot and righteous, temporarily burning away the rot. He brought his mace down on the first rotting bastard to reach him, and the light **exploded**. The undead turned to ash, screaming a dusty scream.
+He heard the first scream and did what he always did: he prayed. Fast, desperate, the words tumbling out in the rote cadence of a man who'd said them so many times they'd worn smooth as river stones. *Let the light hold. Let the line hold. Let it be enough.*
 
-But the gods have a sick sense of humor. It was all a cruel joke. The light sputtered and died. His mace suddenly felt like a hundred pounds of dead iron. And his god? **Silent as a grave**.
+It wasn't enough.
 
-He ran when the line broke. Ran when his brothers fell. Ran when his faith **packed up and left**.
+He stumbled out of his tent into chaos. The lesser dead were already through the eastern perimeter, a shambling tide of gray flesh and grasping hands. He didn't think. He raised his mace, felt the holy fire surge up through his chest—hot and righteous and *real*, burning the black veins back for one bright, lying moment—and brought it down.
+
+The undead turned to ash. The light exploded outward. For ten seconds, Vespatian felt like his god was actually listening.
+
+Then the light died.
+
+His mace arm dropped like a stone. The divine warmth guttered out, replaced by the familiar cold creep of the veins reasserting themselves, darker than before, climbing higher. Around him, the line was breaking. Brothers he'd marched with for three months were going down under gray hands, their prayers cut short by wet, final sounds.
+
+He healed two men who were already dying. Spent the last of what his god would give him on wounds that couldn't be saved. The black veins reached his elbows. His hands shook.
+
+When the vampire drifted through the firelight—pale, unhurried, wearing a smile like a man at a feast—Vespatian raised his holy symbol and spoke the words of banishment. Words he'd used a hundred times. Words that had *worked* a hundred times.
+
+The vampire looked at him the way a cat looks at a mouse that's trying to roar.
+
+He ran. Not because his courage failed. Because his god did.
+
+He told himself, stumbling through the dark grass, that the light would return. That this was a test. That the silence meant something other than absence.
+
+He'd been telling himself that for a long time now. The black veins didn't care what he told himself. They just kept climbing.
 
 ---
 ### **GARRICK: THE MERCENARY WHO TRIED TO BE BOLD (AND FAILED)**
@@ -162,7 +180,6 @@ And then one of the vampires found him. Malrik threw everything he had left at i
 He ran when his hands blistered raw. Ran when his lungs tasted like ash. Ran when he realized that even fire **dies** in the end.
 
 ---
-
 ## **THE MILL: A SANCTUARY FOR THE DAMNED**
 
 The old mill stood alone on the edge of the plains, a grey stone tooth biting into the night sky. It had been abandoned for centuries, a relic of an empire that had forgotten how to feed itself long before it forgot how to die. The wood of the door was bleached and dry as a bone, but it was three inches of solid, stubborn oak. The iron bands were choked with scales of red rust, yet beneath the rot, the metal remained heavy and honest.
