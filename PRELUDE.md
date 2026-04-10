@@ -93,48 +93,38 @@ The fires **died**.
 
 Not burned out. **Smothered**. The sheer weight of the dark pressed down, snuffing the torches one by one. The camp plunged into pitch black, lit only by the sickly glow of dead eyes and the dying embers.
 
-The captain roared for a retreat—a stupid order, considering there was nowhere to retreat *to*. The veterans formed tight circles, shields locked, and died slowly, dragged down into the mud one by one. The new recruits dropped their weapons, screamed, and ran blindly into the dark. They died quickly.
+The sudden silence that followed was worse than the screaming. It was heavy, suffocating, pressing down on the camp like a physical weight. The fires burned low, sputtering in pools of fresh blood, casting long, trembling shadows that seemed to reach for the survivors. Men stood frozen, weapons raised against an enemy that was no longer there, listening to the wet, ragged sounds of their comrades dying in the dark.
 
-The night didn't just feed. It **gorged**.
+The captain, staring dumbly at his broken hilt, tried to bark orders to hold the line. He called it a skirmish. A probing attack. The veterans, wrapping their wounds with shaking hands, called it a warning. The new recruits, staring out into the pitch-black plains where the glowing eyes had been, just called it **fucking terrifying**.
 
-The undead didn’t need to chase. They just waited in the tall grass. The soldiers who escaped the center of the camp ran straight into the waiting jaws of the perimeter. The ones who made it past the perimeter tripped over the bodies of the sentries. And the few who actually reached the open plains?
+They thought they had survived the worst of it. They thought the line had held.
 
-They found the vampires waiting, smiling in the dark.
+But the darkness wasn't retreating.
 
-The last screams were **short**. The last prayers were **unanswered**.
-
-And then—
-
-**Silence**.
-
-The camp was a slaughterhouse. The fires were dead. The Iron Pact's shiny banners were trampled into the bloody mud. The only movement was the slow drift of smoke. The only sound was the wet, rhythmic **drip of blood** from a vampire's chin.
-
-The night had won.
-
-And it was **still hungry**.
+It was just **testing the locks**.
 
 ---
 ## **THE FLIGHT: FOUR WAYS TO RUN (AND WHY IT WON'T MATTER)**
 
 ### **ELDRIN: THE RANGER WHO KNOWS WHEN TO BAIL**
 
-Eldrin was a scout. His job was to **see the enemy first**.
+Eldrin was riding point for the Iron Pact's vanguard. They paid him to be their eyes in the dark. His job was to **see the enemy first**.
 
-He did.
+And he did.
 
-He saw the shapes in the grass before the sentries. Heard the whispers before the screams. Knew what was coming before the captain gave the order to **hold the damn line**.
+He was perched in a dead elm on the perimeter when the earth sighed and gave up its dead. He didn't shout a warning. He didn't blow his horn. He just went to work.
 
-He also knew when a fight was **already lost**.
+He loosed three arrows. Perfect, lethal shots. Yew shafts buried to the fletching in the eye sockets of three rotting husks. The corpses dropped like stones, their necrotic strings cut by broadheads through the brainpan. He drew again, his hands a blur of practiced motion, dropping shambler after shambler into the mud before they even reached the firelight. He was good. He was doing his job.
 
-So he ran. Because that's what he does. That's what he's **always done**. The forest taught him that survival isn't about courage - it's about **knowing when you're screwed**.
+Then he saw the vampire.
 
-He didn't look back. Not when the screams started. Not when the fires died. Not when the darkness **swallowed the camp whole**.
+It didn't walk; it drifted through the carnage, turning seasoned mercenaries into screaming confetti. Eldrin didn't panic. He drew, breathed, and put a heavy bodkin arrow dead center into the creature's pale throat. A shot that would have dropped a charging bull.
 
-He ran until his lungs burned. Until his legs shook. Until he found the old mill, its walls still standing, its door still **barred**.
+The vampire didn't even break stride. It just reached up, casually snapped the shaft, and looked straight up into Eldrin's tree with eyes like burning coals. It smiled.
 
-And then he waited. And listened.
+The forest had taught Eldrin a lot of things, but the most important lesson was simple: survival isn't about courage. It's about **knowing when you're screwed**.
 
-And **hoped like hell he was alone**.
+He dropped from the branches before the captain even drew his sword. Ran while the sentries were still clearing their throats to scream. Ran because his bow was only good for the cheap meat, his courage was a lie, and the dark was **already here**.
 
 ---
 ### **VESPATIAN: THE CLERIC WHO COULDN'T SAVE A DAMN THING**
