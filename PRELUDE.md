@@ -1,4 +1,4 @@
-// A grim, unforgiving dark fantasy setting where civilization is nothing but a thin coat of paint over endless rot.
+A grim, unforgiving dark fantasy setting where civilization is nothing but a thin coat of paint over endless rot.
 
 ---
 
@@ -193,15 +193,29 @@ The nightmares would be waiting when he stopped running. They always were. But n
 ---
 ### **MALRIK: THE FIRE WIZARD WHO BURNED HIMSELF OUT**
 
-Malrik was attached to the mercenary vanguard, hired by the Iron Pact to be their heavy artillery. A walking siege engine, paid a small fortune to turn the cursed plains into glass.
+Malrik didn't sleep. He never slept well in the open, where the dark pressed in from all sides and the fire was the only thing between him and the nothing. So he sat by the camp's edge with his staff across his knees, feeding a small, private flame at its tip, watching it the way other men watched the horizon.
 
-When the screaming started, Malrik didn't panic. He just went to work. He waded into the dark, his staff flaring, turning the night into an oven. He roasted the lesser undead by the dozens, reducing the walking corpses to screaming, flailing pyres. For a few glorious minutes, he felt like a god of hellfire, a bright, burning **fuck you** to the darkness.
+When the earth sighed and gave up its dead, he was already standing.
 
-But fire needs fuel, and arcane magic always takes its cut. With every inferno he unleashed, the heat bled back into him. His hands blistered beneath his wraps. His skin blackened. The magic was cooking him alive from the inside out, and he was burning too bright, too fast.
+He didn't wait for orders. He waded into the chaos and went to work, and for a few minutes it was almost clean. Fire came easily to him — it always had, which was the problem — and he burned the lesser dead by the dozens, reducing shambling corpses to screaming pyres that lit the dark like torches. He felt the heat bleeding back into his hands through the wrappings, felt the familiar deep ache in his palms where the scars had never fully healed, and he ignored it. He'd been ignoring it for years.
 
-And then one of the vampires found him. Malrik threw everything he had left at it—a torrent of white-hot flame that should have melted armor to slag. The vampire just walked through the firestorm, its pale skin barely blistering, and **laughed** as Malrik's flames sputtered and died.
+He burned too bright. He always burned too bright.
 
-He ran when his hands blistered raw. Ran when his lungs tasted like ash. Ran when he realized that even fire **dies** in the end.
+The heat built faster than he expected. His wrappings began to smoke. The blisters came up under the cloth, the same blisters that had been coming up since his second year at the Spire, since the day he'd burned his first teacher and realized the fire didn't care whose hands it lived in. He kept casting. The dead kept coming. The math was simple and brutal: he could burn them faster than they arrived, but the cost compounded with every spell, and the fire didn't negotiate.
+
+Then one of the vampires noticed him.
+
+It walked through his firestorm. Not around it. *Through* it. The white-hot torrent that should have melted armor to slag washed over pale skin and the creature barely flinched, its expression the mild interest of a man walking through light rain. Malrik threw everything he had left — the last of what his burning hands could hold — and watched it accomplish nothing.
+
+The vampire looked at him with something that might have been pity, if vampires felt pity.
+
+He ran when his hands stopped working. Stumbled through the dark with his staff clutched against his chest, the pilot flame guttering low, barely enough to see by. His lungs tasted like ash. His fingers wouldn't close properly. The dark pressed in from all sides, the way it always did, the way it had since the night the Spire's masters had thrown him out and he'd stood alone in the road with nothing but the fire in his hands and the dark everywhere else.
+
+He was afraid of the dark. He'd never told anyone that. The fire was supposed to fix it.
+
+It hadn't fixed anything. It had just given him something to hide behind.
+
+He ran toward the mill's distant light like a man drowning toward a rope, and he didn't look back, because looking back meant seeing how much dark there was and how little fire he had left.
 
 ---
 ## **THE MILL: A SANCTUARY FOR THE DAMNED**
