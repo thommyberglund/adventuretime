@@ -1,4 +1,4 @@
-# SETTLEMENTS: THE LAST LIGHT AND THE CREEPING DARK
+// SETTLEMENTS: THE LAST LIGHT AND THE CREEPING DARK
 
 The coast is civilization's fist - clenched tight against the dark. But the further inland you go, the more the fingers loosen. The more the cracks show. The more the rot seeps through.
 
@@ -62,7 +62,6 @@ Beneath the town, a network of pre-settlement catacombs runs under the older dis
 **Terrain:** River mouth harbour. Timber and stone walls. Low coastal headland. Farmland to the north and east.
 
 ---
-
 ## **THE FRONTIER: WHERE THE DARKNESS CREEPS IN**
 
 ### **Henric's Mill**
@@ -103,8 +102,25 @@ The crossroads are empty now. The cross is **cracked**. The granary door is **sc
 
 **Terrain:** Crossroads. Open plains, low hills visible to the east. Collapsed granary on eastern edge. Smoke from the burned granary roof visible for several kilometers.
 
----
+### **Bentwood**
+A collection of gray timber hovels huddled together on the central plains, two days' march east of the mill road. Home to fifty souls who have managed to survive by being too small for the undead to notice and too poor for the orks to bother with. They spend their days scratching a living out of the stubborn soil and their nights huddled behind a pathetic excuse for a palisade.
 
+The village hasn't seen a shambler in months. Instead, they have the goblins. Small, cruel things that come out of the long grass when the sun dips, looking for anything not nailed down—including livestock and the occasional stray child. The village elder calls it a "manageable problem." The parents who have to lock their doors with three bolts call it **a slow death**.
+
+The Iron Pact ignores Bentwood. There’s no gold here, no strategic value, just dust and desperation. Even the tax collectors don't bother making the trip anymore.
+
+**Notable locations:**
+
+| Location | Description |
+|---|---|
+| The Watchfire | A pile of wet wood in the center of town; supposed to signal for help that never comes |
+| The Long Barn | Where the fifty residents huddle together when the scratching starts on the walls |
+| The Dry Well | A failed excavation that now serves as a convenient place to hide from the night-terrors |
+| The Lean-to | A rickety wooden tower on the village edge, manned by a couple of bored, bitter rangers from the Sylvan Deep; they watch the grass for movement and the villagers for a reason to leave |
+
+**Terrain:** Flat, featureless plains. Tall yellow grass that hides anything shorter than a man. No natural defenses.
+
+---
 ## **THE RUINS: WHERE THE PAST WON'T STAY BURIED**
 
 ### **Ashford**
@@ -137,7 +153,6 @@ The Iron Pact says it's **bad for business** to go there. The Order says it's **
 **Terrain:** Varies - deep desert, encroaching jungle, crumbling coastline. All hostile.
 
 ---
-
 ## **THE WILDERNESS: WHERE THE DARKNESS RULES**
 
 ### **Mishark**
@@ -157,6 +172,6 @@ The dwarves say their mountains are safe. The dwarves say their stone is **pure*
 The miners say the **walls breathe**. The smiths say the metal **screams**. The exiles say the dwarves **lie**.
 
 ---
-**Final Note**: The coast is safe. The temples are strong. The faith is bright. But the dark is **patient**. And the dark is **hungry**. The further you go from the sea, the thinner the light becomes. The more the rot shows. The more the past **claws its way back**.
+**Final Note**: The coast is safe. The temples are strong. The faith is bright. But the dark is **always there**. Waiting. Watching. **Hungry**. The further you go from the sea, the thinner the light becomes. The more the rot shows. The more the past **claws its way back**.
 
 The bastions will hold. For now. But the dark is **always there**. Waiting. Watching. **Hungry**.
