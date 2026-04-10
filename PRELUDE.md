@@ -1,6 +1,4 @@
-# PRELUDE: THE NIGHT THE DARKNESS WON
-
-Hey there. Grab a drink if you've got one. This story starts with a bang and ends with a whimper, and the whimper's gonna stick with you.
+// A grim, unforgiving dark fantasy setting where civilization is nothing but a thin coat of paint over endless rot.
 
 ---
 
@@ -163,66 +161,12 @@ He ran when his sword arm went numb. When his legs turned to lead. When his **co
 ---
 ### **MALRIK: THE FIRE WIZARD WHO BURNED HIMSELF OUT**
 
-Malrik was there to **burn things**.
+Malrik was attached to the mercenary vanguard, hired by the Iron Pact to be their heavy artillery. A walking siege engine, paid a small fortune to turn the cursed plains into glass.
 
-That's what he was hired for. That's what he was **good at**.
+When the screaming started, Malrik didn't panic. He just went to work. He waded into the dark, his staff flaring, turning the night into an oven. He roasted the lesser undead by the dozens, reducing the walking corpses to screaming, flailing pyres. For a few glorious minutes, he felt like a god of hellfire, a bright, burning **fuck you** to the darkness.
 
-And at first? It worked.
+But fire needs fuel, and arcane magic always takes its cut. With every inferno he unleashed, the heat bled back into him. His hands blistered beneath his wraps. His skin blackened. The magic was cooking him alive from the inside out, and he was burning too bright, too fast.
 
-His fire lit up the night. His spells turned the undead to **ash**. His staff glowed like a beacon, a big **fuck you** to the darkness.
+And then one of the vampires found him. Malrik threw everything he had left at it—a torrent of white-hot flame that should have melted armor to slag. The vampire just walked through the firestorm, its pale skin barely blistering, and **laughed** as Malrik's flames sputtered and died.
 
-But the darkness **laughed**.
-
-Because fire needs **fuel**. And Malrik was **running out**.
-
-He burned too bright. Too fast. Too **reckless**.
-
-His hands blistered. His skin **blackened**. His magic **faltered**.
-
-And then the vampires came for him.
-
-Burned two of them to cinders. The third **laughed** as his fire sputtered out.
-
-He ran because he had to. Because even fire **dies** in the end.
-
-Made it to the mill with his staff still glowing, his hands still **smoking**. Barred the door and leaned against it, breath coming in ragged gasps.
-
-And for the first time in years, Malrik the Ashen was **afraid of the dark**.
-
----
-## **THE MILL: WHERE THE BROKEN MEET (AND HOPE GOES TO DIE)**
-
-They found each other in the dark.
-
-Eldrin, breathing hard, bow still strung.
-Vespatian, robes torn, mace **bloodied**.
-Garrick, rapier drawn, face **pale as a ghost**.
-Malrik, staff still glowing, hands **black as coal**.
-
-No one spoke.
-
-Didn’t need to.
-
-They barred the doors. Checked the windows. **Waited**.
-
-Outside, the darkness **moved**. Scratched at the walls. Whispered through the cracks.
-
-**Hungry**.
-
-And for the first time, the four of them understood:
-
-They weren't just running from the undead.
-
-They were running from **themselves**.
-
-And the night? It was **far from over**.
-
----
-**Final Note:**
-They'd survive the night.
-
-But they wouldn't be the same.
-
-And the dark? It would **follow them**.
-
-Always.
+He ran when his hands blistered raw. Ran when his lungs tasted like ash. Ran when he realized that even fire **dies** in the end.
