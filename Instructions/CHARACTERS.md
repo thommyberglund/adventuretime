@@ -1,4 +1,4 @@
-# CHARACTERS: THE BROKEN AND THE DAMNED
+// CHARACTERS: THE BROKEN AND THE DAMNED
 
 These are not heroes. They are **survivors**. Some are better than others. Most are worse. All of them are carrying something that will eventually break them.
 
@@ -57,7 +57,6 @@ Vespatian's healing magic leaves **black veins** creeping up his arms. He tells 
 His mace is heavy. His faith is **heavier**.
 
 ---
-
 ## **GARRICK THE UNBROKEN: THE MERCENARY WHO BROKE HIMSELF FIRST**
 
 **Appearance:**
@@ -85,50 +84,48 @@ Garrick's rapier is fast, but his nightmares are **faster**. He doesn't talk abo
 His code is simple: don't betray the client, don't trust anyone, and **never look back**. But the past has a way of catching up. And Garrick's past is **gaining on him**.
 
 ---
-
 ## **MALRIK THE ASHEN: THE FIRE WIZARD WHO BURNS FROM WITHIN**
 
 **Appearance:**
-A gaunt man with skin like parchment stretched too tight over bone. His hair was once dark, but now it's streaked with gray and the faintest hint of **smoke**. His eyes are the color of embers - bright when angry, dull when exhausted. His hands are wrapped in blackened cloth, the fingers slightly curled from years of heat damage. He wears a long coat of heavy leather, its edges singed and its smell permanently tinged with **burning**.
+A gaunt woman with skin like parchment stretched too tight over bone. Her hair was once dark, but now it's streaked with gray and the faintest hint of **smoke**. Her eyes are the color of embers - bright when angry, dull when exhausted. Her hands are wrapped in blackened cloth, the fingers slightly curled from years of heat damage. She wears a long coat of heavy leather, its edges singed and its smell permanently tinged with **burning**.
 
-His staff is blackened oak, its tip still glowing faintly from the last spell. The air around him shimmers with heat, like the haze above a desert at noon. When he's angry, which is often, the air **distorts**.
+Her staff is blackened oak, its tip still glowing faintly from the last spell. The air around her shimmers with heat, like the haze above a desert at noon. When she's angry, which is often, the air **distorts**.
 
 **Skills and Abilities:**
-- **Master of fire magic** (though he'd never call himself that)
+- **Master of fire magic** (though she'd never call herself that)
 - **Skilled in pyromancy** (reading flames, which is useful when you're always surrounded by them)
-- **Proficient with his staff** (both as a focus and a weapon)
-- **Knowledgeable about heat and combustion** (he knows exactly how long it takes for flesh to burn)
+- **Proficient with her staff** (both as a focus and a weapon)
+- **Knowledgeable about heat and combustion** (she knows exactly how long it takes for flesh to burn)
 
 **Personality:**
-Malrik is **angry**. Not the loud, shouting kind of angry - the quiet, smoldering kind. The kind that makes people nervous when he's too still, too quiet. He speaks in a voice like dry kindling, each word measured, each syllable carrying the weight of something **burning**.
+Malrik is **angry**. Not the loud, shouting kind of angry - the quiet, smoldering kind. The kind that makes people nervous when she's too still, too quiet. She speaks in a voice like dry kindling, each word measured, each syllable carrying the weight of something **burning**.
 
-He doesn't trust easily. Fire has taught him that lesson too well. He's seen what happens when you get too close to something that burns, and he's not interested in repeating the experience. But he's not cruel, either. Just... **cautious**. Like a man who's been burned too many times.
+She doesn't trust easily. Fire has taught her that lesson too well. She's seen what happens when you get too close to something that burns, and she's not interested in repeating the experience. But she's not cruel, either. Just... **cautious**. Like a woman who's been burned too many times.
 
-He has a dark sense of humor, the kind that makes people laugh nervously and then look away. He calls it "honesty." Other people call it "disturbing."
+She has a dark sense of humor, the kind that makes people laugh nervously and then look away. She calls it "honesty." Other people call it "disturbing."
 
 **Backstory:**
-Malrik wasn't always like this. Once, he was a scholar, studying the arcane arts in one of the Wizard's Spires. He was good at it. Too good. Fire magic came easily to him, and he was reckless with it. He burned his first teacher by accident. The second one he burned on purpose.
+Malrik wasn't always like this. Once, she was a scholar, studying the arcane arts in one of the Wizard's Spires. She was good at it. Too good. Fire magic came easily to her, and she was reckless with it. She burned her first teacher by accident. The second one she burned on purpose.
 
-The Spire kicked him out after the third fire. By then, his hands were already scarred, his hair singed at the edges. He wandered for a while, taking odd jobs, burning things for coin. Then he met a man who offered him a place in a group. The man lied about a lot of things, but not about the danger. Malrik stayed anyway.
+The Spire kicked her out after the third fire. By then, her hands were already scarred, her hair singed at the edges. She wandered for a while, taking odd jobs, burning things for coin. Then she met a man who offered her a place in a group. The man lied about a lot of things, but not about the danger. Malrik stayed anyway.
 
 **The Truth:**
-Malrik's hands are **always warm**. Not the comforting kind of warm - the kind that makes people flinch when he touches them. His staff is always lit, a small flame dancing at the tip like a hungry thing. He sleeps with it beside him. He's afraid of the dark.
+Malrik's hands are **always warm**. Not the comforting kind of warm - the kind that makes people flinch when she touches them. Her staff is always lit, a small flame dancing at the tip like a hungry thing. She sleeps with it beside her. She's afraid of the dark.
 
-His magic doesn't just burn his enemies. It burns **him**, from the inside out. He can feel it, always, like a coal in his chest. Some days it's a spark. Other days it's a **wildfire**. He's learned to control it, mostly. But control isn't the same as **mastery**.
+Her magic doesn't just burn her enemies. It burns **her**, from the inside out. She can feel it, always, like a coal in her chest. Some days it's a spark. Other days it's a **wildfire**. She's learned to control it, mostly. But control isn't the same as **mastery**.
 
-The fire doesn't just scar his hands. It scars his **soul**. And some nights, when the flames dance too high, he wonders if there's anything left of him that isn't **ash**.
+The fire doesn't just scar her hands. It scars her **soul**. And some nights, when the flames dance too high, she wonders if there's anything left of her that isn't **ash**.
 
 **Notable Traits:**
-- His hands are **always warm** (sometimes too warm)
-- His temper is **short** (like a fuse)
-- His loyalty is **fierce** (but not free)
-- His past is **burned away** (like everything else)
+- Her hands are **always warm** (sometimes too warm)
+- Her temper is **short** (like a fuse)
+- Her loyalty is **fierce** (but not free)
+- Her past is **burned away** (like everything else)
 
 **Final Note:**
-Malrik doesn't talk about the Spire. He doesn't talk about the fires. He doesn't talk about the things he's burned, or the things that have burned **him**. But the scars are there, on his hands and in his eyes. And fire, once lit, is **hard to put out**.
+Malrik doesn't talk about the Spire. She doesn't talk about the fires. She doesn't talk about the things she's burned, or the things that have burned **her**. But the scars are there, on her hands and in her eyes. And fire, once lit, is **hard to put out**.
 
 ---
-
 ## **THE TRUTH ABOUT ALL OF THEM**
 
 They are not heroes. They are **broken things** that still move.
@@ -136,7 +133,7 @@ They are not heroes. They are **broken things** that still move.
 - **Eldrin** runs from the dark, but the dark is **always behind him**.
 - **Vespatian** believes in his god, but his god is **silent when it matters**.
 - **Garrick** follows a code, but his code is **written in blood**.
-- **Malrik** controls the fire, but the fire **controls him**.
+- **Malrik** controls the fire, but the fire **controls her**.
 
 They travel together because it's safer that way. They trust each other because they have to. But trust is a **luxury**, and luxury is for people who can afford to **die with a clear conscience**.
 
