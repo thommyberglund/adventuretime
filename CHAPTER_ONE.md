@@ -1,4 +1,7 @@
-# CHAPTER ONE: THE CELLAR
+// A grim, unforgiving dark fantasy setting where civilization is nothing but a thin coat of paint over endless rot.
+---
+
+## **THE CELLAR**
 
 The scratching had stopped an hour ago.
 
@@ -12,7 +15,7 @@ Eldrin sat with his back against the mill's stone wall, bow across his knees, li
 
 "Three hours," Eldrin said. He'd been counting. "Maybe four."
 
-"We won't last four hours," Malrik said flatly. He was still slumped against the far wall, his wrapped hands pressed flat against the cold stone. The flame at his staff tip flickered, guttered, steadied. "The door won't hold another serious push. The wood's rotting. The bolt's already cracked."
+"We won't last four hours," Malrik said flatly. She was still slumped against the far wall, her wrapped hands pressed flat against the cold stone. The flame at her staff tip flickered, guttered, steadied. "The door won't hold another serious push. The wood's rotting. The bolt's already cracked."
 
 As if in answer, something **slammed** against the door.
 
@@ -42,7 +45,7 @@ The creature smiled.
 
 It took a step forward, and Malrik threw fire.
 
-The spell erupted from his staff like a living thing, a torrent of white-hot flame that should have melted armor to slag. The vampire walked through it without breaking stride. Its pale skin didn't even **blister**. It just kept coming, drifting through the inferno like a man walking through light rain.
+The spell erupted from her staff like a living thing, a torrent of white-hot flame that should have melted armor to slag. The vampire walked through it without breaking stride. Its pale skin didn't even **blister**. It just kept coming, drifting through the inferno like a man walking through light rain.
 
 "Go!" Eldrin shouted. He loosed an arrow point-blank, aiming for the creature's eye. The shaft buried itself to the fletching, and the vampire didn't even **flinch**. It just reached up, casually snapped the arrow, and kept walking.
 
@@ -60,7 +63,7 @@ The hatch was heavy, its hinges rusted, but it came up with a screech of protest
 
 "Down!" he shouted.
 
-Garrick went first, his broken rapier still in his hand. Vespatian followed, his robes tangling around his legs as he descended. Malrik was last, his staff held high, the flame casting wild shadows on the cellar walls as he climbed down.
+Garrick went first, his broken rapier still in his hand. Vespatian followed, his robes tangling around his legs as he descended. Malrik was last, her staff held high, the flame casting wild shadows on the cellar walls as she climbed down.
 
 The vampire reached the hatch just as Eldrin pulled it shut.
 
@@ -72,7 +75,7 @@ The hand didn't scream. It didn't bleed. It just **pulled**, and the hatch buckl
 
 Garrick was there, throwing his weight against the hatch. Vespatian added his strength. The hand pulled harder, and for one terrible moment, Eldrin thought the bolt would **snap**.
 
-Then Malrik raised his staff and **burned**.
+Then Malrik raised her staff and **burned**.
 
 The flame erupted from the hatch's edges, white-hot and furious. The hand **released**, and the hatch slammed shut with a **bang** that echoed through the cellar. Above, something **screamed**—a sound like ice cracking, like the world breaking, like something that had never known pain suddenly **learning**.
 
@@ -152,7 +155,7 @@ But Garrick had stopped. He was staring at the well, his expression unreadable.
 
 "There's something down there," Garrick said quietly. "I can feel it. Like... like something's watching."
 
-"Everything's watching," Malrik said. His voice was tight, controlled. "That's the problem. We need to move."
+"Everything's watching," Malrik said. Her voice was tight, controlled. "That's the problem. We need to move."
 
 They chose the ascending passage. It was narrower than the first tunnel, and it twisted upward in a spiral that made Eldrin's sense of direction spin. But it was moving **away** from the well, and that was enough.
 
@@ -160,7 +163,7 @@ The passage opened into another chamber, this one smaller, its walls lined with 
 
 "Burial chamber," Vespatian whispered. "This is a tomb."
 
-"We're in a tomb," Malrik said flatly. "We're in a fucking **tomb**, and we're walking deeper into it."
+"We're in a tomb," Malrik said flatly. "We're walking deeper into it."
 
 "Do you want to go back?" Eldrin asked.
 
@@ -176,7 +179,7 @@ Not the warm light of Malrik's flame. Real light. Pale and gray, filtering down 
 
 The passage opened into a larger chamber, and there, in the ceiling, was a **hole**. Not large—perhaps three feet across—but it was open to the sky. And through it, the first hints of **dawn** were beginning to show.
 
-Eldrin looked at the others. Garrick's face was streaked with blood and dust. Vespatian's robes were torn, his mace dented from impacts that should have killed him. Malrik's hands were shaking, his staff's flame burning low.
+Eldrin looked at the others. Garrick's face was streaked with blood and dust. Vespatian's robes were torn, his mace dented from impacts that should have killed him. Malrik's hands were shaking, her staff's flame burning low.
 
 They were alive. Barely. But they were alive.
 
@@ -199,5 +202,3 @@ They climbed toward the light, toward the hole in the ceiling, toward the dawn t
 And in the binding circle, the stone where something had been carved began to **crack**.
 
 ---
-
-**END OF CHAPTER ONE**
