@@ -8,8 +8,7 @@ file:
   - Instructions/MAGIC.md
   - Instructions/CHARACTERS.md
   - Instructions/CREATURES.md
-  - CONVENTIONS.md
-  - PRELUDE.md
+  - Instructions/CONVENTIONS.md
 
 # BEHAVIOR
 auto-commits: false
