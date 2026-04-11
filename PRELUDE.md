@@ -1,4 +1,4 @@
-A grim, unforgiving dark fantasy setting where civilization is nothing but a thin coat of paint over endless rot.
+// A grim, unforgiving dark fantasy setting where civilization is nothing but a thin coat of paint over endless rot.
 
 ---
 
@@ -191,31 +191,31 @@ Not because his courage failed. His courage had never been the problem. He ran b
 The nightmares would be waiting when he stopped running. They always were. But nightmares, at least, he knew how to survive.
 
 ---
-### **MALRIK: THE FIRE WIZARD WHO BURNED HIMSELF OUT**
+### **MALRIK: THE FIRE WIZARD WHO BURNED HERSELF OUT**
 
-Malrik didn't sleep. He never slept well in the open, where the dark pressed in from all sides and the fire was the only thing between him and the nothing. So he sat by the camp's edge with his staff across his knees, feeding a small, private flame at its tip, watching it the way other men watched the horizon.
+Malrik didn't sleep. She never slept well in the open, where the dark pressed in from all sides and the fire was the only thing between her and the nothing. So she sat by the camp's edge with her staff across her knees, feeding a small, private flame at its tip, watching it the way other people watched the horizon.
 
-When the earth sighed and gave up its dead, he was already standing.
+When the earth sighed and gave up its dead, she was already standing.
 
-He didn't wait for orders. He waded into the chaos and went to work, and for a few minutes it was almost clean. Fire came easily to him — it always had, which was the problem — and he burned the lesser dead by the dozens, reducing shambling corpses to screaming pyres that lit the dark like torches. He felt the heat bleeding back into his hands through the wrappings, felt the familiar deep ache in his palms where the scars had never fully healed, and he ignored it. He'd been ignoring it for years.
+She didn't wait for orders. She waded into the chaos and went to work, and for a few minutes it was almost clean. Fire came easily to her—it always had, which was the problem—and she burned the lesser dead by the dozens, reducing shambling corpses to screaming pyres that lit the dark like torches. She felt the heat bleeding back into her hands through the wrappings, felt the familiar deep ache in her palms where the scars had never fully healed, and she ignored it. She'd been ignoring it for years.
 
-He burned too bright. He always burned too bright.
+She burned too bright. She always burned too bright.
 
-The heat built faster than he expected. His wrappings began to smoke. The blisters came up under the cloth, the same blisters that had been coming up since his second year at the Spire, since the day he'd burned his first teacher and realized the fire didn't care whose hands it lived in. He kept casting. The dead kept coming. The math was simple and brutal: he could burn them faster than they arrived, but the cost compounded with every spell, and the fire didn't negotiate.
+The heat built faster than she expected. Her wrappings began to smoke. The blisters came up under the cloth, the same blisters that had been coming up since her second year at the Spire, since the day she'd burned her first teacher and realized the fire didn't care whose hands it lived in. She kept casting. The dead kept coming. The math was simple and brutal: she could burn them faster than they arrived, but the cost compounded with every spell, and the fire didn't negotiate.
 
-Then one of the vampires noticed him.
+Then one of the vampires noticed her.
 
-It walked through his firestorm. Not around it. *Through* it. The white-hot torrent that should have melted armor to slag washed over pale skin and the creature barely flinched, its expression the mild interest of a man walking through light rain. Malrik threw everything he had left — the last of what his burning hands could hold — and watched it accomplish nothing.
+It walked through her firestorm. Not around it. *Through* it. The white-hot torrent that should have melted armor to slag washed over its pale skin and the creature barely flinched, its expression the mild interest of a person walking through light rain. Malrik threw everything she had left—the last of what her burning hands could hold—and watched it accomplish nothing.
 
-The vampire looked at him with something that might have been pity, if vampires felt pity.
+The vampire looked at her with something that might have been pity, if vampires felt pity.
 
-He ran when his hands stopped working. Stumbled through the dark with his staff clutched against his chest, the pilot flame guttering low, barely enough to see by. His lungs tasted like ash. His fingers wouldn't close properly. The dark pressed in from all sides, the way it always did, the way it had since the night the Spire's masters had thrown him out and he'd stood alone in the road with nothing but the fire in his hands and the dark everywhere else.
+She ran when her hands stopped working. Stumbled through the dark with her staff clutched against her chest, the pilot flame guttering low, barely enough to see by. Her lungs tasted like ash. Her fingers wouldn't close properly. The dark pressed in from all sides, the way it always did, the way it had since the night the Spire's masters had thrown her out and she'd stood alone in the road with nothing but the fire in her hands and the dark everywhere else.
 
-He was afraid of the dark. He'd never told anyone that. The fire was supposed to fix it.
+She was afraid of the dark. She'd never told anyone that. The fire was supposed to fix it.
 
-It hadn't fixed anything. It had just given him something to hide behind.
+It hadn't fixed anything. It had just given her something to hide behind.
 
-He ran toward the mill's distant light like a man drowning toward a rope, and he didn't look back, because looking back meant seeing how much dark there was and how little fire he had left.
+She ran toward the mill's distant light like a drowning woman toward a rope, and she didn't look back, because looking back meant seeing how much dark there was and how little fire she had left.
 
 ---
 ## **THE MILL: A SANCTUARY FOR THE DAMNED**
@@ -232,9 +232,9 @@ The mercenary — tall, dark-haired, a rapier in his fist and blood on his jaw �
 
 Eldrin lowered the bow. Not because he trusted him. Because the grass behind him was moving in ways that had nothing to do with the wind, and this wasn't the moment.
 
-They got the door open. The wizard was already inside, slumped against the far wall with his wrapped hands pressed flat against the cold stone, a tiny flame guttering at the tip of his staff. He didn't look up when they entered. His hands were shaking. The flame was the only reason Eldrin didn't put an arrow in him on instinct.
+They got the door open. The **wizard** was already inside, slumped against the far wall with **her** wrapped hands pressed flat against the cold stone, a tiny flame guttering at the tip of **her** staff. She didn't look up when they entered. **Her** hands were shaking. The flame was the only reason Eldrin didn't put an arrow in **her** on instinct.
 
-The cleric arrived last, stumbling through the door with his mace still in his fist and his robes torn at the shoulder. He pulled up short when he saw the others. His eyes went to the mercenary's rapier, to the wizard's flame, to Eldrin's bow. His jaw tightened.
+The cleric arrived last, stumbling through the door with his mace still in his fist and his robes torn at the shoulder. He pulled up short when he saw the others. His eyes went to the mercenary's rapier, to the **wizard's** flame, to Eldrin's bow. His jaw tightened.
 
 "Shut the door," the mercenary said.
 
@@ -246,7 +246,7 @@ The cleric shut the door.
 
 They heaved the bolt home and stood in the near-dark, four strangers breathing hard, listening to the silence outside. Nobody spoke. Nobody introduced themselves. There was nothing to say that the situation hadn't already said more clearly: they were alive, they were here, and everything else was dead or running.
 
-Garrick moved first, dragging a grinding stone across the floor to brace against the door. Eldrin watched him do it, then helped without being asked, because the alternative was standing still and thinking about what was in the grass. Vespatian found a rotted timber beam and wedged it under the handle. Malrik didn't move from the wall, but the flame at his staff tip burned a little steadier.
+Garrick moved first, dragging a grinding stone across the floor to brace against the door. Eldrin watched him do it, then helped without being asked, because the alternative was standing still and thinking about what was in the grass. Vespatian found a rotted timber beam and wedged it under the handle. **Malrik** didn't move from the wall, but the flame at **her** staff tip burned a little steadier.
 
 It wasn't trust. It was arithmetic.
 
