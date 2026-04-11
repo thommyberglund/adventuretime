@@ -6,11 +6,13 @@ These are not heroes. They are **survivors**. Some are better at pretending othe
 
 ## **ELDRIN OF MISHARK**
 
-Eldrin is tall and lean in the way of men who move fast and eat rarely. His hair is tied back in a braid that’s been fraying for weeks because he hasn’t had a quiet moment to fix it and won’t ask anyone to help. His eyes are the color of a forest stream, which sounds poetic until you notice they’re always moving, always measuring exits. His longbow is dark yew, worn smooth where his fingers grip. His hands are steady. His sleep isn’t.
+Eldrin is tall and lean in the way of men who've spent more time running than eating. His hair is tied back in a braid that's been fraying for weeks, and his eyes are the color of a forest stream—which sounds poetic until you realize they never stop moving, never stop measuring exits. His longbow is dark yew, worn smooth where his fingers grip. The wood remembers every arrow he's loosed. His hands are steady when he draws. They shake when he sleeps.
 
-He grew up in Mishark, where the trees watch you and the animals have **human eyes**. His father taught him the most important lesson a man can learn: **when the shadows get too long, you run**. Eldrin learned that lesson well. When his village was attacked by bandits, he didn’t stay to fight. He **ran**, like his father taught him. Now he tells himself it was to seek justice. The truth is simpler: he was afraid. He still is. But he’s better at hiding it now.
+He grew up in Mishark, deep in the forest where the trees have **human eyes** and the animals watch you like they're waiting for something. His father taught him the ranger's trade and one lesson that mattered more than all the others: **when the shadows get too long, you run**. Eldrin learned that lesson the hard way. When bandits came for his village, he didn't stand and fight. He **ran**, just like his father taught him, and he told himself it was tactical. The truth is simpler and uglier: he was **terrified**, and he's never stopped being terrified.
 
-He doesn’t protect people because it’s right. He protects them because he’s **terrified** of being alone in the dark again. His arrows fly true, but his hands shake when no one’s looking. He’s not a hero. He’s a man who knows the cost of failure, and he’s **not willing to pay it again**.
+Now he hires out as a scout because arrows let him kill things from a distance and distance means he can **run** if things go wrong. He's good at his job. He can track a deer through three days of rain, put an arrow through a man's eye at a hundred paces, and disappear into the forest like smoke. But he's not brave. He's just very, very good at **staying alive**.
+
+He doesn't protect people because it's right. He protects them because being alone in the dark is worse than anything else he can imagine, and if he keeps them alive, they might keep him from having to face that dark by himself.
 
 ---
 
